@@ -265,7 +265,7 @@
                             <div class="header-right d-flex justify-content-end align-items-center">
                                
                                 <div class="header-button">
-                                    <a href="contact.php" class="theme-btn bg-red-2">contact us</a>
+                                    <a href="login.php" class="theme-btn bg-red-2">Login</a>
                                 </div>
                                 <div class="header__hamburger d-xl-block my-auto">
                                     <div class="sidebar__toggle">

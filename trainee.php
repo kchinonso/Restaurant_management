@@ -81,28 +81,16 @@
                 <div class="contact-area">
                     <div class="row justify-content-between">
                         <div class="col-xl-6 col-lg-6">
-                            <div class="map-content-area">
-                                <h3 class="wow fadeInUp" data-wow-delay=".3s"> Get in touch</h3>
-                                <p class="wow fadeInUp" data-wow-delay=".5s">
-                                    Lorem ipsum dolor sit amet consectetur adipiscing elit mattis <br>
-                                    faucibus odio feugiat arc dolor.
-                                </p>
-                                <div class="google-map wow fadeInUp" data-wow-delay=".7s">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6678.7619084840835!2d144.9618311901502!3d-37.81450084255415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642b4758afc1d%3A0x3119cc820fdfc62e!2sEnvato!5e0!3m2!1sen!2sbd!4v1641984054261!5m2!1sen!2sbd" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-5 col-lg-5 mt-5 mt-lg-0">
-                            <div class="contact-form-items">
+                        <div class="contact-form-items">
                                 <div class="contact-title">
                                     <h3 class="wow fadeInUp" data-wow-delay=".3s">Fill Up The Form</h3>
                                     <p class="wow fadeInUp" data-wow-delay=".5s">Your email address will not be published. Required fields are marked *</p>
                                 </div>
-                                <form action="https://modinatheme.com/html/foodking-html/contact.php" id="contact-form" method="POST">
+                                <form  id="contact-form" method="POST">
                                     <div class="row g-4">
                                         <div class="col-lg-12 wow fadeInUp" data-wow-delay=".3s">
                                             <div class="form-clt">
-                                                <input type="text" name="name" id="name" placeholder="Your Name*">
+                                                <input type="text" name="name" id="name" placeholder="Full Name*">
                                                 <div class="icon">
                                                     <i class="fal fa-user"></i>
                                                 </div>
@@ -110,20 +98,127 @@
                                         </div>
                                         <div class="col-lg-12 wow fadeInUp" data-wow-delay=".5s">
                                             <div class="form-clt">
-                                                <input type="text" name="email" id="email" placeholder="Email Address*">
+                                                <input type="date" name="date_of_birth" id="email" placeholder="Date of Birth*">
                                                 <div class="icon">
                                                     <i class="fal fa-envelope"></i>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-12 wow fadeInUp" data-wow-delay=".7s">
-                                            <div class="form-clt-big form-clt">
-                                                <textarea name="message" id="message" placeholder="Enter Your Messege here"></textarea>
+                                        <h6>Your Address</h6>
+                                        <div class="col-lg-12 wow fadeInUp" data-wow-delay=".3s">
+                                            <div class="form-clt">
+                                                <input type="text" name="name" id="name" placeholder="post code*">
                                                 <div class="icon">
-                                                    <i class="fal fa-edit"></i>
+                                                    <i class="fal fa-user"></i>
                                                 </div>
                                             </div>
                                         </div>
+                                        <div class="col-lg-12 wow fadeInUp" data-wow-delay=".5s">
+                                            <div class="form-clt">
+                                                <input type="text" name="date_of_birth" id="email" placeholder="State*">
+                                                <div class="icon">
+                                                    <i class="fal fa-envelope"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12 wow fadeInUp" data-wow-delay=".3s">
+                                            <div class="form-clt">
+                                                <input type="text" name="name" id="name" placeholder="City*">
+                                                <div class="icon">
+                                                    <i class="fal fa-user"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12 wow fadeInUp" data-wow-delay=".5s">
+                                            <div class="form-clt">
+                                                <input type="text" name="date_of_birth" id="email" placeholder="Apartment*">
+                                                <div class="icon">
+                                                    <i class="fal fa-envelope"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                        <div class="col-lg-12 wow fadeInUp" data-wow-delay=".3s">
+                                            <div class="form-clt">
+                                                <input type="text" name="name" id="name" placeholder="Street name*">
+                                                <div class="icon">
+                                                    <i class="fal fa-user"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12 wow fadeInUp" data-wow-delay=".5s">
+                                            <div class="form-clt">
+                                                <input type="text" name="date_of_birth" id="email" placeholder="Contact information*">
+                                                <div class="icon">
+                                                    <i class="fal fa-envelope"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                        
+                        </form>
+                        </div>
+                        </div>
+                        <div class="col-xl-5 col-lg-5 mt-5 mt-lg-0">
+                           <div class="contact-form-items">
+                            <form id="contact-form" method="POST">
+                            <div class="col-lg-12 wow fadeInUp" data-wow-delay=".3s">
+                                            <div class="form-clt">
+                                              <select name="" id="">
+                                                <!-- <option value="">Gender</option> -->
+                                                <option value="">Male</option>
+                                                <option value="">Female</option>
+                                                <option value="">Other</option>
+                                              </select>
+                                                <div class="icon">
+                                                    <i class="fal fa-user"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12 wow fadeInUp" data-wow-delay=".5s">
+                                            <div class="form-clt">
+                                                <input type="text" name="date_of_birth" id="email" placeholder="Marital Status*">
+                                                <div class="icon">
+                                                    <i class="fal fa-envelope"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                            <div class="col-lg-12 wow fadeInUp" data-wow-delay=".3s">
+                                            <div class="form-clt">
+                                                <input type="text" name="name" id="name" placeholder="Sexual orientation*">
+                                                <div class="icon">
+                                                    <i class="fal fa-user"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12 wow fadeInUp" data-wow-delay=".5s">
+                                            <div class="form-clt">
+                                                <input type="text" name="date_of_birth" id="email" placeholder="Disability*">
+                                                <div class="icon">
+                                                    <i class="fal fa-envelope"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12 wow fadeInUp" data-wow-delay=".3s">
+                                            <div class="form-clt">
+                                                <input type="text" name="name" id="name" placeholder="Emergency contact*">
+                                                <div class="icon">
+                                                    <i class="fal fa-user"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12 wow fadeInUp" data-wow-delay=".5s">
+                                            <div class="form-clt">
+                                                <input type="file" name="date_of_birth" id="email" placeholder="Proof of ID*">
+                                                <div class="icon">
+                                                    <i class="fal fa-envelope"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        
+                                      
                                         <div class="col-lg-6 wow fadeInUp" data-wow-delay=".8s">
                                             <button type="submit" class="theme-btn">
                                             <span class="button-content-wrapper d-flex align-items-center">
@@ -132,13 +227,15 @@
                                             </span>
                                             </button>
                                         </div>
+                                    </form>
                                     </div>
-                                </form>
+                                
                             </div>
-                        </div>
-                    </div>
+                        <!-- </div> -->
+                    <!-- </div> -->
                 </div>
             </div>
+                                        
         </section>
 
         <!-- Main Cta Banner Section Start -->
