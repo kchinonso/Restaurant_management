@@ -32,11 +32,11 @@
                                             <p data-animation="fadeInUp">crispy, every bite taste</p>
                                             <h1  data-animation="fadeInUp" data-delay="0.5s">
                                                 delicious
-                                                <span>fried</span>
-                                                chiken
+                                                <span>special</span>
+                                             Box
                                             </h1>
                                             <div class="hero-button">
-                                                <a href="shop-single.html" class="theme-btn" data-animation="fadeInUp" data-delay="0.9s">
+                                                <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn" data-animation="fadeInUp" data-delay="0.9s">
                                                 <span class="button-content-wrapper d-flex align-items-center">
                                                 <span class="button-icon"><i class="flaticon-delivery"></i></span>
                                                 <span class="button-text">order now</span>
@@ -47,7 +47,7 @@
                                     </div>
                                     <div class="col-xl-6 col-lg-5 mt-5 mt-lg-0">
                                         <div class="chiken-image" data-animation="fadeInUp" data-delay="1.4s">
-                                            <img src="assets/img/hero/chiken.png" alt="chiken-img">
+                                            <img src="assets/img/rest1.png" alt="chiken-img">
                                         </div>
                                     </div>
                                 </div>
@@ -79,11 +79,11 @@
                                             <p data-animation="fadeInUp">crispy, every bite taste</p>
                                             <h1  data-animation="fadeInUp" data-delay="0.5s">
                                                 Awesome
-                                                <span>fried</span>
-                                                chiken
+                                                <span>rice and</span>
+                                                stew
                                             </h1>
                                             <div class="hero-button">
-                                                <a href="shop-single.html" class="theme-btn" data-animation="fadeInUp" data-delay="0.9s">
+                                                <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn" data-animation="fadeInUp" data-delay="0.9s">
                                                 <span class="button-content-wrapper d-flex align-items-center">
                                                 <span class="button-icon"><i class="flaticon-delivery"></i></span>
                                                 <span class="button-text">order now</span>
@@ -94,7 +94,7 @@
                                     </div>
                                     <div class="col-xl-6 col-lg-5 mt-5 mt-lg-0">
                                         <div class="chiken-image" data-animation="fadeInUp" data-delay="1.4s">
-                                            <img src="assets/img/hero/chiken.png" alt="chiken-img">
+                                            <img src="assets/img/rest22.png" alt="chiken-img">
                                         </div>
                                     </div>
                                 </div>
@@ -126,11 +126,11 @@
                                             <p data-animation="fadeInUp">crispy, every bite taste</p>
                                             <h1  data-animation="fadeInUp" data-delay="0.5s">
                                                 Favorite
-                                                <span>fried</span>
-                                                chiken
+                                                <span>jellof</span>
+                                                rice
                                             </h1>
                                             <div class="hero-button">
-                                                <a href="shop-single.html" class="theme-btn" data-animation="fadeInUp" data-delay="0.9s">
+                                                <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn" data-animation="fadeInUp" data-delay="0.9s">
                                                 <span class="button-content-wrapper d-flex align-items-center">
                                                 <span class="button-icon"><i class="flaticon-delivery"></i></span>
                                                 <span class="button-text">order now</span>
@@ -141,7 +141,7 @@
                                     </div>
                                     <div class="col-xl-6 col-lg-5 mt-5 mt-lg-0">
                                         <div class="chiken-image" data-animation="fadeInUp" data-delay="1.4s">
-                                            <img src="assets/img/hero/chiken.png" alt="chiken-img">
+                                            <img src="assets/img/rest4.png" alt="chiken-img">
                                         </div>
                                     </div>
                                 </div>
@@ -173,11 +173,11 @@
                                             <p data-animation="fadeInUp">crispy, every bite taste</p>
                                             <h1  data-animation="fadeInUp" data-delay="0.5s">
                                                 delicious
-                                                <span>fried</span>
-                                                chiken
+                                                <span>special</span>
+                                                Box
                                             </h1>
                                             <div class="hero-button">
-                                                <a href="shop-single.html" class="theme-btn" data-animation="fadeInUp" data-delay="0.9s">
+                                                <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn" data-animation="fadeInUp" data-delay="0.9s">
                                                 <span class="button-content-wrapper d-flex align-items-center">
                                                 <span class="button-icon"><i class="flaticon-delivery"></i></span>
                                                 <span class="button-text">order now</span>
@@ -188,7 +188,7 @@
                                     </div>
                                     <div class="col-xl-6 col-lg-5 mt-5 mt-lg-0">
                                         <div class="chiken-image" data-animation="fadeInUp" data-delay="1.4s">
-                                            <img src="assets/img/hero/chiken.png" alt="chiken-img">
+                                            <img src="assets/img/rest1.png" alt="chiken-img">
                                         </div>
                                     </div>
                                 </div>
@@ -481,7 +481,7 @@
                                     <span class="text-2">$59,00</span>
                                 </h3>
                                 <div class="grilled-button wow fadeInUp" data-wow-delay=".7s">
-                                    <a href="shop-single.html" class="theme-btn">
+                                    <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn">
                                     <span class="button-content-wrapper d-flex align-items-center">
                                     <span class="button-icon"><i class="flaticon-delivery"></i></span>
                                     <span class="button-text">order now</span>
@@ -511,22 +511,22 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                         <div class="catagory-product-card-2 text-center">
                             <div class="icon">
-                                <a href="shop-cart.html"><i class="far fa-heart"></i></a>
+                                <a href="https://www.uwagboeskitchen.com/online-ordering"><i class="far fa-heart"></i></a>
                             </div>
                             <div class="catagory-product-image">
-                                <img src="assets/img/food/beef-ruti.png" alt="product-img">
+                                <img  src="assets/img/4d6c59_1ea04112545f42858557dd86a1ec77d3~mv2.webp" width="200" alt="product-img">
                             </div>
                             <div class="catagory-product-content">
                                 <div class="catagory-button">
-                                    <a href="shop-cart.html" class="theme-btn-2"><i class="far fa-shopping-basket"></i>Add To Cart</a>
+                                    <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn-2"><i class="far fa-shopping-basket"></i>Order Now</a>
                                 </div>
                                 <div class="info-price d-flex align-items-center justify-content-center">
-                                    <p>-5%</p>
-                                    <h6>$30.52</h6>
-                                    <span>$28.52</span>
+                                    <!-- <p>-5%</p> -->
+                                    <h6>Grill</h6>
+                                    <!-- <span>$28.52</span> -->
                                 </div>
                                 <h4>
-                                    <a href="shop-single.html">ruti with beef slice</a>
+                                    <a href="https://www.uwagboeskitchen.com/online-ordering">Served All Day</a>
                                 </h4>
                                 <div class="star">
                                     <span class="fas fa-star"></span>
@@ -541,22 +541,22 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
                         <div class="catagory-product-card-2 active text-center">
                             <div class="icon">
-                                <a href="shop-cart.html"><i class="far fa-heart"></i></a>
+                                <a href="https://www.uwagboeskitchen.com/online-ordering"><i class="far fa-heart"></i></a>
                             </div>
                             <div class="catagory-product-image">
-                                <img src="assets/img/food/burger-2.png" alt="product-img">
+                                <img src="assets/img/4d6c59_033b7f0af9694b30a8f5bb10b3c04294~mv8.webp" width="200" alt="product-img">
                             </div>
                             <div class="catagory-product-content">
                                 <div class="catagory-button">
-                                    <a href="shop-cart.html" class="theme-btn-2"><i class="far fa-shopping-basket"></i>Add To Cart</a>
+                                    <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn-2"><i class="far fa-shopping-basket"></i>Order Now</a>
                                 </div>
                                 <div class="info-price d-flex align-items-center justify-content-center">
-                                    <p>-5%</p>
-                                    <h6>$30.52</h6>
-                                    <span>$28.52</span>
+                                    <!-- <p>-5%</p> -->
+                                    <h6>Special Box</h6>
+                                    <!-- <span>$28.52</span> -->
                                 </div>
                                 <h4>
-                                    <a href="shop-single.html">Whopper Burger King</a>
+                                    <a href="https://www.uwagboeskitchen.com/online-ordering">Served All Day</a>
                                 </h4>
                                 <div class="star">
                                     <span class="fas fa-star"></span>
@@ -571,27 +571,27 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                         <div class="catagory-product-card-2 text-center">
                             <div class="icon">
-                                <a href="shop-cart.html"><i class="far fa-heart"></i></a>
+                                <a href="https://www.uwagboeskitchen.com/online-ordering"><i class="far fa-heart"></i></a>
                             </div>
                             <div class="catagory-product-image">
-                                <img src="assets/img/food/pasta-2.png" alt="product-img">
+                                <img src="assets/img/4d6c59_90073563ccb24a59a9264955072ef2cc~mv5.webp" alt="product-img">
                             </div>
                             <div class="catagory-product-content">
                                 <div class="catagory-button">
-                                    <a href="shop-cart.html" class="theme-btn-2"><i class="far fa-shopping-basket"></i>Add To Cart</a>
+                                    <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn-2"><i class="far fa-shopping-basket"></i>Order Now</a>
                                 </div>
                                 <div class="info-price d-flex align-items-center justify-content-center">
-                                    <p>-5%</p>
-                                    <h6>$30.52</h6>
-                                    <span>$28.52</span>
+                                    <!-- <p>-5%</p> -->
+                                    <h6>Eugusi soup</h6>
+                                    <!-- <span>$28.52</span> -->
                                 </div>
                                 <h4>
-                                    <a href="shop-single.html">Chiness pasta</a>
+                                    <a href="https://www.uwagboeskitchen.com/online-ordering">Served All Day</a>
                                 </h4>
                                 <div class="star">
                                     <span class="fas fa-star"></span>
                                     <span class="fas fa-star"></span>
-                                    <span class="fas fa-star"></span>
+                                    <span class="fas fa-star" soup></span>
                                     <span class="fas fa-star"></span>
                                     <span class="fas fa-star text-white"></span>
                                 </div>
@@ -601,22 +601,22 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".8s">
                         <div class="catagory-product-card-2 text-center">
                             <div class="icon">
-                                <a href="shop-cart.html"><i class="far fa-heart"></i></a>
+                                <a href="https://www.uwagboeskitchen.com/online-ordering"><i class="far fa-heart"></i></a>
                             </div>
                             <div class="catagory-product-image">
-                                <img src="assets/img/food/pizza-3.png" alt="product-img">
+                                <img src="assets/img/4d6c59_65faff8a47064eeca015842221eefb60~mv4.webp" width="200" height="200" alt="product-img">
                             </div>
                             <div class="catagory-product-content">
                                 <div class="catagory-button">
-                                    <a href="shop-cart.html" class="theme-btn-2"><i class="far fa-shopping-basket"></i>Add To Cart</a>
+                                    <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn-2"><i class="far fa-shopping-basket"></i>Order Now</a>
                                 </div>
                                 <div class="info-price d-flex align-items-center justify-content-center">
-                                    <p>-5%</p>
-                                    <h6>$30.52</h6>
-                                    <span>$28.52</span>
+                                    <!-- <p>-5%</p> -->
+                                    <h6>Rice and stew</h6>
+                                    <!-- <span>$28.52</span> -->
                                 </div>
                                 <h4>
-                                    <a href="shop-single.html">delicious burger</a>
+                                    <a href="https://www.uwagboeskitchen.com/online-ordering">delicious burger</a>
                                 </h4>
                                 <div class="star">
                                     <span class="fas fa-star"></span>
@@ -628,129 +628,12 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="catagory-product-card-2 text-center">
-                            <div class="icon">
-                                <a href="shop-cart.html"><i class="far fa-heart"></i></a>
-                            </div>
-                            <div class="catagory-product-image">
-                                <img src="assets/img/food/main-food-2.png" alt="product-img">
-                            </div>
-                            <div class="catagory-product-content">
-                                <div class="catagory-button">
-                                    <a href="shop-cart.html" class="theme-btn-2"><i class="far fa-shopping-basket"></i>Add To Cart</a>
-                                </div>
-                                <div class="info-price d-flex align-items-center justify-content-center">
-                                    <p>-5%</p>
-                                    <h6>$30.52</h6>
-                                    <span>$28.52</span>
-                                </div>
-                                <h4>
-                                    <a href="shop-single.html">fast food combo</a>
-                                </h4>
-                                <div class="star">
-                                    <span class="fas fa-star"></span>
-                                    <span class="fas fa-star"></span>
-                                    <span class="fas fa-star"></span>
-                                    <span class="fas fa-star"></span>
-                                    <span class="fas fa-star text-white"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
-                        <div class="catagory-product-card-2 text-center">
-                            <div class="icon">
-                                <a href="shop-cart.html"><i class="far fa-heart"></i></a>
-                            </div>
-                            <div class="catagory-product-image">
-                                <img src="assets/img/food/ruti.png" alt="product-img">
-                            </div>
-                            <div class="catagory-product-content">
-                                <div class="catagory-button">
-                                    <a href="shop-cart.html" class="theme-btn-2"><i class="far fa-shopping-basket"></i>Add To Cart</a>
-                                </div>
-                                <div class="info-price d-flex align-items-center justify-content-center">
-                                    <p>-5%</p>
-                                    <h6>$30.52</h6>
-                                    <span>$28.52</span>
-                                </div>
-                                <h4>
-                                    <a href="shop-single.html">ruti with chiken</a>
-                                </h4>
-                                <div class="star">
-                                    <span class="fas fa-star"></span>
-                                    <span class="fas fa-star"></span>
-                                    <span class="fas fa-star"></span>
-                                    <span class="fas fa-star"></span>
-                                    <span class="fas fa-star text-white"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
-                        <div class="catagory-product-card-2 text-center">
-                            <div class="icon">
-                                <a href="shop-cart.html"><i class="far fa-heart"></i></a>
-                            </div>
-                            <div class="catagory-product-image">
-                                <img src="assets/img/food/grilled-2.png" alt="product-img">
-                            </div>
-                            <div class="catagory-product-content">
-                                <div class="catagory-button">
-                                    <a href="shop-cart.html" class="theme-btn-2"><i class="far fa-shopping-basket"></i>Add To Cart</a>
-                                </div>
-                                <div class="info-price d-flex align-items-center justify-content-center">
-                                    <p>-5%</p>
-                                    <h6>$30.52</h6>
-                                    <span>$28.52</span>
-                                </div>
-                                <h4>
-                                    <a href="shop-single.html">grilled chiken</a>
-                                </h4>
-                                <div class="star">
-                                    <span class="fas fa-star"></span>
-                                    <span class="fas fa-star"></span>
-                                    <span class="fas fa-star"></span>
-                                    <span class="fas fa-star"></span>
-                                    <span class="fas fa-star text-white"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".8s">
-                        <div class="catagory-product-card-2 text-center">
-                            <div class="icon">
-                                <a href="shop-cart.html"><i class="far fa-heart"></i></a>
-                            </div>
-                            <div class="catagory-product-image">
-                                <img src="assets/img/food/delicious-burger.png" alt="product-img">
-                            </div>
-                            <div class="catagory-product-content">
-                                <div class="catagory-button">
-                                    <a href="shop-cart.html" class="theme-btn-2"><i class="far fa-shopping-basket"></i>Add To Cart</a>
-                                </div>
-                                <div class="info-price d-flex align-items-center justify-content-center">
-                                    <p>-5%</p>
-                                    <h6>$30.52</h6>
-                                    <span>$28.52</span>
-                                </div>
-                                <h4>
-                                    <a href="shop-single.html">delicious burger</a>
-                                </h4>
-                                <div class="star">
-                                    <span class="fas fa-star"></span>
-                                    <span class="fas fa-star"></span>
-                                    <span class="fas fa-star"></span>
-                                    <span class="fas fa-star"></span>
-                                    <span class="fas fa-star text-white"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                 
+                    
+                 
                 </div>
                 <div class="catagory-button text-center pt-4 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="shop.html" class="theme-btn">
+                    <a href="https://www.uwagboeskitchen.com/gallery" class="theme-btn">
                     <span class="button-content-wrapper d-flex align-items-center">
                     <span class="button-icon"><i class="flaticon-delivery"></i></span>
                     <span class="button-text">view more</span>
@@ -797,14 +680,14 @@
                                     <img src="assets/img/offer/pizza.png" alt="img">
                                     </span>
                                     <span class="comboo-title">
-                                    20% off tasty pizza with drink
+                                    20% off tasty special Box with drink
                                     </span>
                                     </span>
                                     </button>
                                     <button class="nav-link wow fadeInUp" data-wow-delay=".7s" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-contact" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">
                                     <span class="food-comboo-list">
                                     <span class="offer-image">
-                                    <img src="assets/img/offer/burger.png" alt="img">
+                                    <!-- <img src="assets/img/offer/burger.png" alt="img"> -->
                                     </span>
                                     <span class="comboo-title">
                                     2pcs humbergur with drinks & sauce
@@ -819,10 +702,10 @@
                                 <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
                                     <div class="comboo-image bg-cover" style="background-image: url('assets/img/banner/comboo-bg.jpg');">
                                         <div class="pizza-text">
-                                            <img src="assets/img/shape/combo-pizza-text.png" alt="shape-img">
+                                            <!-- <img src="assets/img/shape/combo-pizza-text.png" alt="shape-img"> -->
                                         </div>
                                         <div class="pizza-image">
-                                            <img src="assets/img/food/big-pizza.png" alt="food-img">
+                                            <img src="assets/img/rest1.png" alt="food-img" style="width:300px; margin-left:40%">
                                         </div>
                                         <div class="offer-shape">
                                             <img src="assets/img/offer/50percent-off-2.png" alt="shape-img">
@@ -838,7 +721,7 @@
                                             <img src="assets/img/shape/combo-pizza-text.png" alt="shape-img">
                                         </div>
                                         <div class="pizza-image">
-                                            <img src="assets/img/food/big-pizza.png" alt="food-img">
+                                            <!-- <img src="assets/img/food/big-pizza.png" alt="food-img"> -->
                                         </div>
                                         <div class="offer-shape">
                                             <img src="assets/img/offer/50percent-off-2.png" alt="shape-img">
@@ -849,18 +732,18 @@
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
-                                    <div class="comboo-image bg-cover" style="background-image: url('assets/img/banner/comboo-bg.jpg');">
+                                    <!-- <div class="comboo-image bg-cover" style="background-image: url('assets/img/banner/comboo-bg.jpg');"> -->
                                         <div class="pizza-text">
-                                            <img src="assets/img/shape/combo-pizza-text.png" alt="shape-img">
+                                            <!-- <img src="assets/img/shape/combo-pizza-text.png" alt="shape-img"> -->
                                         </div>
                                         <div class="pizza-image">
-                                            <img src="assets/img/food/big-pizza.png" alt="food-img">
+                                            <!-- <img src="assets/img/food/big-pizza.png" alt="food-img"> -->
                                         </div>
                                         <div class="offer-shape">
-                                            <img src="assets/img/offer/50percent-off-2.png" alt="shape-img">
+                                            <!-- <img src="assets/img/offer/50percent-off-2.png" alt="shape-img"> -->
                                         </div>
                                         <div class="vegetable-shape">
-                                            <img src="assets/img/shape/vegetable.png" alt="shape-img">
+                                            <!-- <img src="assets/img/shape/vegetable.png" alt="shape-img"> -->
                                         </div>
                                     </div>
                                 </div>
@@ -964,15 +847,15 @@
                     <div class="row align-items-center">
                         <div class="col-xl-6 col-lg-6 wow fadeInUp" data-wow-delay=".3s">
                             <div class="about-image">
-                                <img src="assets/img/about/burger.png" alt="about-img">
+                                <img src="assets/img/restabout.webp" alt="about-img">
                                 <div class="burger-text">
-                                    <img src="assets/img/about/burger-text.png" alt="shape-img">
+                                    <!-- <img src="assets/img/about/burger-text.png" alt="shape-img"> -->
                                 </div>
                                 <div class="price">
-                                    <h2>$<span class="count">4,99</span></h2>
+                                    <!-- <h2>$<span class="count">4,99</span></h2> -->
                                 </div>
                                 <div class="since-text bg-cover" style="background-image: url('assets/img/shape/food-shape.png');">
-                                    <h3>since /1985</h3>
+                                    <!-- <h3>since /1985</h3> -->
                                 </div>
                             </div>
                         </div>
@@ -986,11 +869,16 @@
                                     </h2>
                                 </div>
                                 <p class="wow fadeInUp" data-wow-delay=".5s">
-                                    It's the perfect dining experience where every dish is crafted with fresh, high-quality
-                                    Experience quick and efficient service that ensures your food is servead fresh It's the
-                                    dining experience where every dish is crafted with fresh, high-quality ingredients
+                                We are Edinburgh’s first Nigerian Cuisine. We provide high-quality takeaway food for all those that wish to enjoy skilful cooking. Our signature phrase - Chop Better Food - is symbolic in Nigerian Pidgin English to mean eat good quality food.
+
+​
                                 </p>
-                                <div class="icon-area">
+                                <p class="wow fadeInUp" data-wow-delay=".5s">
+                                Our processes are geared up to produce high quality food consistently, and we will do this because our processes are unconventional. We do not have hundreds of dishes - our menu is unique and tailored, so that each dish tastes homemade and leaves you fulfilled.
+
+​
+                                </p>
+                                <!-- <div class="icon-area">
                                     <div class="icon-items d-flex wow fadeInUp" data-wow-delay=".3s">
                                         <div class="icon">
                                             <i class="flaticon-quality"></i>
@@ -1015,14 +903,14 @@
                                             </p>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="info-area d-flex align-items-center">
+                                </div> -->
+                                <!-- <div class="info-area d-flex align-items-center">
                                     <a href="about.html" class="theme-btn wow style-line-height fadeInUp" data-wow-delay=".3s">more about us</a>
                                     <div class="info-content wow fadeInUp" data-wow-delay=".5s">
                                         <span>BRENDON GARREY</span>
                                         <h6>Customer’s experience is our highest priority.</h6>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

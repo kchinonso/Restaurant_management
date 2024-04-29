@@ -2622,6 +2622,7 @@ input.main-search-input::placeholder {
   position: relative;
   z-index: 9;
   height: 245px;
+  
 }
 .catagory-product-card .catagory-product-image .decor-leaf {
   position: absolute;

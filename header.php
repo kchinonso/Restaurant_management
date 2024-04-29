@@ -216,8 +216,8 @@
                     <div class="mega-menu-wrapper">
                         <div class="header-main">
                             <div class="logo">
-                                <a href="index.php" class="header-logo">
-                                <img src="assets/img/logo/logo.svg" alt="logo-img">
+                                <a href="https://www.uwagboeskitchen.com/" class="header-logo">
+                                <img src="assets/img/whatsapp_logo-removebg-preview.png" alt="logo-img">
                                 </a>
                             </div>
                             <div class="header-left">

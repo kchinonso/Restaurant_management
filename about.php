@@ -25,21 +25,22 @@
         </div>
 
         <!-- About Section Start -->
-        <section class="about-section fix section-padding section-bg">
+          <!-- About Section Start -->
+          <section class="about-section fix section-padding pt-0 section-bg">
             <div class="container">
                 <div class="about-wrapper">
                     <div class="row align-items-center">
                         <div class="col-xl-6 col-lg-6 wow fadeInUp" data-wow-delay=".3s">
-                            <div class="about-image">
-                                <img src="assets/img/about/burger.png" alt="about-img">
+                            <div class="about-image mt-5">
+                                <img src="assets/img/restabout.webp" alt="about-img">
                                 <div class="burger-text">
-                                    <img src="assets/img/about/burger-text.png" alt="shape-img">
+                                    <!-- <img src="assets/img/about/burger-text.png" alt="shape-img"> -->
                                 </div>
                                 <div class="price">
-                                    <h2>$<span class="count">4,99</span></h2>
+                                    <!-- <h2>$<span class="count">4,99</span></h2> -->
                                 </div>
                                 <div class="since-text bg-cover" style="background-image: url('assets/img/shape/food-shape.png');">
-                                    <h3>since /1985</h3>
+                                    <!-- <h3>since /1985</h3> -->
                                 </div>
                             </div>
                         </div>
@@ -53,11 +54,16 @@
                                     </h2>
                                 </div>
                                 <p class="wow fadeInUp" data-wow-delay=".5s">
-                                    It's the perfect dining experience where every dish is crafted with fresh, high-quality
-                                    Experience quick and efficient service that ensures your food is servead fresh It's the
-                                    dining experience where every dish is crafted with fresh, high-quality ingredients
+                                We are Edinburgh’s first Nigerian Cuisine. We provide high-quality takeaway food for all those that wish to enjoy skilful cooking. Our signature phrase - Chop Better Food - is symbolic in Nigerian Pidgin English to mean eat good quality food.
+
+​
                                 </p>
-                                <div class="icon-area">
+                                <p class="wow fadeInUp" data-wow-delay=".5s">
+                                Our processes are geared up to produce high quality food consistently, and we will do this because our processes are unconventional. We do not have hundreds of dishes - our menu is unique and tailored, so that each dish tastes homemade and leaves you fulfilled.
+
+​
+                                </p>
+                                <!-- <div class="icon-area">
                                     <div class="icon-items d-flex wow fadeInUp" data-wow-delay=".3s">
                                         <div class="icon">
                                             <i class="flaticon-quality"></i>
@@ -82,14 +88,14 @@
                                             </p>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="info-area d-flex align-items-center">
-                                    <a href="about.html" class="theme-btn style-line-height wow fadeInUp" data-wow-delay=".3s">more about us</a>
+                                </div> -->
+                                <!-- <div class="info-area d-flex align-items-center">
+                                    <a href="about.html" class="theme-btn wow style-line-height fadeInUp" data-wow-delay=".3s">more about us</a>
                                     <div class="info-content wow fadeInUp" data-wow-delay=".5s">
                                         <span>BRENDON GARREY</span>
                                         <h6>Customer’s experience is our highest priority.</h6>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
