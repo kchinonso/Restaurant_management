@@ -93,7 +93,7 @@
                         <div class="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                             <div class="offcanvas__logo">
                                 <a href="index.html">
-                                <img src="assets/img/logo/logo.svg" alt="logo-img">
+                                <img src="assets/img/whatsapp_logo-removebg-preview.png" alt="logo-img">
                                 </a>
                             </div>
                             <div class="offcanvas__close">
@@ -138,7 +138,9 @@
                                         <i class="fal fa-map-marker-alt"></i>
                                     </div>
                                     <div class="offcanvas__contact-text">
-                                        <a target="_blank" href="#">Main Street, Melbourne, Australia</a>
+                                        <a target="_blank" href="#"> 250-252 Leith Walk, Edinburgh.
+
+EH6 5EL Scotland, United Kingdom</a>
                                     </div>
                                 </li>
                                 <li class="d-flex align-items-center">
@@ -146,7 +148,7 @@
                                         <i class="fal fa-envelope"></i>
                                     </div>
                                     <div class="offcanvas__contact-text">
-                                        <a href="tel:+013-003-003-9993"><span class="mailto:info@enofik.com">info@foodking.com</span></a>
+                                        <a href="tel:+013-003-003-9993"><span class="mailto:info@enofik.com">uwagboekitchen@gmail.com</span></a>
                                     </div>
                                 </li>
                                 <li class="d-flex align-items-center">
@@ -162,7 +164,7 @@
                                         <i class="far fa-phone"></i>
                                     </div>
                                     <div class="offcanvas__contact-text">
-                                        <a href="tel:+11002345909">+11002345909</a>
+                                        <a href="tel:+11002345909">0131 531 2796</a>
                                     </div>
                                 </li>
                             </ul>
@@ -177,8 +179,8 @@
                             <div class="social-icon d-flex align-items-center">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="#"><i class="fab fa-instagram"></i></a>
+                                <!-- <a href="#"><i class="fab fa-linkedin-in"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -202,10 +204,10 @@
                                 <input placeholder="Search" aria-label="Search">
                             </div>
                             <div class="social-icon d-flex align-items-center">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-vimeo-v"></i></a>
-                                <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                <a href="https://www.facebook.com/uwagboeskitchen"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://twitter.com/uwagboeskitchen"><i class="fab fa-twitter"></i></a>
+                                <a href="https://www.instagram.com/uwagboeskitchen/"><i class="fab fa-instagram"></i></a>
+                                <!-- <a href="#"><i class="fab fa-pinterest-p"></i></a> -->
                             </div>
                         </div>
                     </div>

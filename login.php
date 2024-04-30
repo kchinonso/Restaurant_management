@@ -25,83 +25,34 @@
             </div>
         </div>
 
-        <!--<< Contact Info Section Start >>-->
-        <section class="contact-info-section fix section-padding section-bg">
+       
+        <section class="contact-section section-padding pt-0 section-bg mt-5">
             <div class="container">
-                <div class="row g-4">
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="contact-info-items text-center">
-                            <div class="icon">
-                                <img src="assets/img/icon/location.svg" alt="icon-img">
-                            </div>
-                            <div class="content">
-                                <h3>address line</h3>
-                                <p>
-                                    Bowery St, New York, 37 USA <br>
-                                    NY 10013,USA 
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".5s">
-                        <div class="contact-info-items active text-center">
-                            <div class="icon">
-                                <img src="assets/img/icon/phone.svg" alt="icon-img">
-                            </div>
-                            <div class="content">
-                                <h3>Phone Number</h3>
-                                <p>
-                                    +1255 - 568 - 6523 4374-221 <br>
-                                    +1255 - 568 - 6523
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".7s">
-                        <div class="contact-info-items text-center">
-                            <div class="icon">
-                                <img src="assets/img/icon/email.svg" alt="icon-img">
-                            </div>
-                            <div class="content">
-                                <h3>Mail Adress</h3>
-                                <p>
-                                    email@example.com <br>
-                                    info@yourdomain.com
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!--<< Contact Section Start >>-->
-        <section class="contact-section section-padding pt-0 section-bg">
-            <div class="container">
+            <div class="contact-title text-center">
+                                    <h3 class="wow fadeInUp" data-wow-delay=".3s">Fill Up The Form</h3>
+                                    <p class="wow fadeInUp" data-wow-delay=".5s">Your email address will not be published. Required fields are marked *</p>
+                                </div>
                 <div class="contact-area">
                     <div class="row justify-content-between">
                         
                         <div class="col-md-12">
                             <div class="contact-form-items">
-                                <div class="contact-title">
-                                    <h3 class="wow fadeInUp" data-wow-delay=".3s">Fill Up The Form</h3>
-                                    <p class="wow fadeInUp" data-wow-delay=".5s">Your email address will not be published. Required fields are marked *</p>
-                                </div>
+                               
                                 <form action="https://modinatheme.com/html/foodking-html/contact.php" id="contact-form" method="POST">
                                     <div class="row g-4">
                                         <div class="col-lg-12 wow fadeInUp" data-wow-delay=".3s">
                                             <div class="form-clt">
-                                                <input type="text" name="name" id="name" placeholder="Full Name*">
+                                                <input type="text" name="email" placeholder="Email*">
                                                 <div class="icon">
-                                                    <i class="fal fa-user"></i>
+                                                <!-- <i class="fal fa-envelope"></i> -->
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-lg-12 wow fadeInUp" data-wow-delay=".5s">
                                             <div class="form-clt">
-                                                <input type="text" name="email" id="email" placeholder="Email Address*">
+                                                <input type="text" name="password" placeholder="Password*">
                                                 <div class="icon">
-                                                    <i class="fal fa-envelope"></i>
+                                                   
                                                 </div>
                                             </div>
                                         </div>
@@ -140,7 +91,7 @@
                             <span class="theme-color-3">delivery</span> challage
                         </h2>
                     </div>
-                    <a href="shop-single.html" class="theme-btn bg-white wow fadeInUp" data-wow-delay=".5s">
+                    <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn bg-white wow fadeInUp" data-wow-delay=".5s">
                     <span class="button-content-wrapper d-flex align-items-center">
                     <span class="button-icon"><i class="flaticon-delivery"></i></span>
                     <span class="button-text">order now</span>
