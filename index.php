@@ -229,10 +229,10 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="catagory-product-card bg-cover" style="background-image: url('assets/img/shape/catagory-card-shape.jpg');">
-                                <h5>5 products</h5>
+                                <!-- <h5>5 products</h5> -->
                                 <div class="catagory-product-image text-center">
-                                    <a href="shop.html">
-                                        <img src="assets/img/food/pizza.png" alt="product-img">
+                                    <a href="https://www.uwagboeskitchen.com/online-ordering">
+                                        <img src="assets/img/4d6c59_1ea04112545f42858557dd86a1ec77d3~mv2.webp" alt="product-img">
                                         <div class="decor-leaf">
                                             <img src="assets/img/shape/decor-leaf.svg" alt="shape-img">
                                         </div>
@@ -249,20 +249,20 @@
                                         <img src="assets/img/shape/food-shape.svg" alt="shape-text">
                                     </div>
                                     <h3>
-                                        <a href="shop-single.html">
-                                        pro pizza
+                                        <a href="https://www.uwagboeskitchen.com/online-ordering">
+                                        Fish
                                         </a>
                                     </h3>
-                                    <p>5 products</p>
+                                    <!-- <p>5 products</p> -->
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="catagory-product-card bg-cover" style="background-image: url('assets/img/shape/catagory-card-shape.jpg');">
-                                <h5>5 products</h5>
+                                <!-- <h5>5 products</h5> -->
                                 <div class="catagory-product-image text-center">
-                                    <a href="shop.html">
-                                        <img src="assets/img/food/pasta.png" alt="product-img">
+                                    <a href="https://www.uwagboeskitchen.com/online-ordering">
+                                        <img src="assets/img/4d6c59_033b7f0af9694b30a8f5bb10b3c04294~mv8.webp" alt="product-img">
                                         <div class="decor-leaf">
                                             <img src="assets/img/shape/decor-leaf.svg" alt="shape-img">
                                         </div>
@@ -270,7 +270,7 @@
                                             <img src="assets/img/shape/decor-leaf-2.svg" alt="shape-img">
                                         </div>
                                         <div class="burger-shape">
-                                            <img src="assets/img/shape/burger-shape.png" alt="shape-img">
+                                            <!-- <img src="assets/img/shape/burger-shape.png" alt="shape-img"> -->
                                         </div>
                                     </a>
                                 </div>
@@ -279,20 +279,20 @@
                                         <img src="assets/img/shape/food-shape.svg" alt="shape-text">
                                     </div>
                                     <h3>
-                                        <a href="shop-single.html">
-                                        pro pizza
+                                        <a href="https://www.uwagboeskitchen.com/online-ordering">
+                                        special Box
                                         </a>
                                     </h3>
-                                    <p>5 products</p>
+                                    <!-- <p>5 products</p> -->
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="catagory-product-card bg-cover" style="background-image: url('assets/img/shape/catagory-card-shape.jpg');">
-                                <h5>5 products</h5>
+                                <!-- <h5>5 products</h5> -->
                                 <div class="catagory-product-image text-center">
-                                    <a href="shop.html">
-                                        <img src="assets/img/food/burger.png" alt="product-img">
+                                    <a href="https://www.uwagboeskitchen.com/online-ordering">
+                                        <img src="assets/img/4d6c59_42d51968e723416a98ca10a6211b9174~mv3.webp" alt="product-img">
                                         <div class="decor-leaf">
                                             <img src="assets/img/shape/decor-leaf.svg" alt="shape-img">
                                         </div>
@@ -309,20 +309,20 @@
                                         <img src="assets/img/shape/food-shape.svg" alt="shape-text">
                                     </div>
                                     <h3>
-                                        <a href="shop-single.html">
-                                        pro pizza
+                                        <a href="https://www.uwagboeskitchen.com/online-ordering">
+                                        fried rice
                                         </a>
                                     </h3>
-                                    <p>5 products</p>
+                                    <!-- <p>5 products</p> -->
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide">
-                            <div class="catagory-product-card bg-cover" style="background-image: url('assets/img/shape/catagory-card-shape.jpg');">
-                                <h5>5 products</h5>
-                                <div class="catagory-product-image text-center">
-                                    <a href="shop.html">
-                                        <img src="assets/img/food/french-fry.png" alt="product-img">
+                        <!-- <div class="swiper-slide">
+                            <div class="catagory-product-card bg-cover" style="background-image: url('assets/img/shape/catagory-card-shape.jpg');"> -->
+                                <!-- <h5>5 products</h5> -->
+                                <!-- <div class="catagory-product-image text-center">
+                                    <a href="V">
+                                        <img src="assets/img/4d6c59_1ea04112545f42858557dd86a1ec77d3~mv2.webp" alt="product-img">
                                         <div class="decor-leaf">
                                             <img src="assets/img/shape/decor-leaf.svg" alt="shape-img">
                                         </div>
@@ -333,18 +333,18 @@
                                             <img src="assets/img/shape/burger-shape.png" alt="shape-img">
                                         </div>
                                     </a>
-                                </div>
-                                <div class="catagory-product-content text-center">
+                                </div> -->
+                                <!-- <div class="catagory-product-content text-center">
                                     <div class="catagory-product-icon">
                                         <img src="assets/img/shape/food-shape.svg" alt="shape-text">
                                     </div>
                                     <h3>
-                                        <a href="shop-single.html">
-                                        pro pizza
+                                        <a href="https://www.uwagboeskitchen.com/online-ordering">
+                                    fish
                                         </a>
                                     </h3>
                                     <p>5 products</p>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -353,7 +353,7 @@
         </section>
 
         <!-- Food Banner Section Start -->
-        <section class="food-banner-section section-padding fix section-bg pt-0">
+        <!-- <section class="food-banner-section section-padding fix section-bg pt-0">
             <div class="chili-shape">
                 <img src="assets/img/shape/chili-shape.png" alt="shape-img">
             </div>
@@ -397,10 +397,10 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <!-- Brand Section Start -->
-        <section class="brand-shape section-padding fix section-bg pt-0">
+        <!-- <section class="brand-shape section-padding fix section-bg pt-0">
             <div class="container">
                 <div class="brand-wrapper">
                     <div class="brand-title">
@@ -444,7 +444,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <!-- Grilled Banner Section Start -->
         <section class="grilled-banner fix section-padding bg-cover" style="background-image: url('assets/img/banner/main-bg.jpg');">
@@ -452,7 +452,7 @@
                 <img src="assets/img/shape/patato-shape.png" alt="shape-img">
             </div>
             <div class="offer-shape float-bob-y">
-                <img src="assets/img/offer/50percent-off-2.png" alt="shape-img">
+                <!-- <img src="assets/img/offer/50percent-off-2.png" alt="shape-img"> -->
             </div>
             <div class="text-shape">
                 <img src="assets/img/shape/pizza-text-2.png" alt="shape-img">
@@ -469,16 +469,16 @@
                         <div class="col-xl-6 col-lg-6">
                             <div class="grilled-content">
                                 <h4 class="wow fadeInUp">
-                                    save 20%
+                                    
                                 </h4>
                                 <h2 class="wow fadeInUp" data-wow-delay=".3s">
                                     tODAY'S <span>ASTACKIN</span> DAY
                                 </h2>
                                 <h3 class="wow fadeInUp" data-wow-delay=".5s">
                                     <a href="shop.html">
-                                    grilled <span class="text-1">chiken</span>
+                                    jellof <span class="text-1">rice</span>
                                     </a>
-                                    <span class="text-2">$59,00</span>
+                                    <!-- <span class="text-2">$59,00</span> -->
                                 </h3>
                                 <div class="grilled-button wow fadeInUp" data-wow-delay=".7s">
                                     <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn">
@@ -492,7 +492,7 @@
                         </div>
                         <div class="col-xl-6 col-lg-6 mt-5 mt-lg-0 wow fadeInUp" data-wow-delay=".4s">
                             <div class="grilled-image">
-                                <img src="assets/img/food/grilled.png" alt="grilled-img">
+                                <img src="assets/img/rest4.png" alt="grilled-img">
                             </div>
                         </div>
                     </div>
@@ -705,10 +705,10 @@
                                             <!-- <img src="assets/img/shape/combo-pizza-text.png" alt="shape-img"> -->
                                         </div>
                                         <div class="pizza-image">
-                                            <img src="assets/img/rest1.png" alt="food-img" style="width:300px; margin-left:40%">
+                                            <img src="assets/img/rest1.png" alt="food-img" style="width:600px; margin-left:20% ; margin-top: -30%">
                                         </div>
                                         <div class="offer-shape">
-                                            <img src="assets/img/offer/50percent-off-2.png" alt="shape-img">
+                                            <!-- <img src="assets/img/offer/50percent-off-2.png" alt="shape-img"> -->
                                         </div>
                                         <div class="vegetable-shape">
                                             <img src="assets/img/shape/vegetable.png" alt="shape-img">
@@ -923,12 +923,12 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-xl-7 col-lg-9 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="burger-banner-items bg-cover" style="background-image: url(assets/img/banner/burger-bg.png);">
+                        <div class="burger-banner-items bg-cover z-index-common" style="background-image: url(assets/img/banner/burger-bg.png);">
                             <div class="burger-content text-center">
                                 <h3>today</h3>
                                 <h2>special</h2>
-                                <h4><a href="shop.html" class="text-white">beef <span>burger</span></a></h4>
-                                <a href="shop-single.html" class="theme-btn mt-4">
+                                <h4><a href="https://www.uwagboeskitchen.com/online-ordering" class="text-white">special <span>box</span></a></h4>
+                                <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn mt-4">
                                 <span class="button-content-wrapper d-flex align-items-center">
                                 <span class="button-icon"><i class="flaticon-delivery"></i></span>
                                 <span class="button-text">order now</span>
@@ -936,13 +936,13 @@
                                 </a>
                             </div>
                             <div class="burger-image">
-                                <img src="assets/img/food/big-burger.png" alt="food-img">
+                                <img src="assets/img/rest1.png" alt="food-img" style="margin-top:100%">
                             </div>
                             <div class="text-shape">
                                 <img src="assets/img/shape/pizza-text-2.png" alt="shape-img">
                             </div>
                             <div class="burger-text">
-                                <img src="assets/img/shape/burger-text.png" alt="shape-img">
+                                <!-- <img src="assets/img/shape/burger-text.png" alt="shape-img"> -->
                             </div>
                         </div>
                     </div>
@@ -958,7 +958,7 @@
                                     The mouth-watering aroma of <br>
                                     sizzling burgers
                                 </p>
-                                <a href="shop-single.html" class="theme-btn mt-4">
+                                <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn mt-4">
                                 <span class="button-content-wrapper d-flex align-items-center">
                                 <span class="button-icon"><i class="flaticon-delivery"></i></span>
                                 <span class="button-text">order now</span>
@@ -966,10 +966,10 @@
                                 </a>
                             </div>
                             <div class="offer-img">
-                                <img src="assets/img/offer/50percent-off-3.png" alt="shape-img">
+                                <!-- <img src="assets/img/offer/50percent-off-3.png" alt="shape-img"> -->
                             </div>
                             <div class="roller-box">
-                                <img src="assets/img/food/roller-box.png" alt="food-img">
+                                <img src="assets/img/rest3.png" alt="food-img">
                             </div>
                         </div>
                     </div>
@@ -985,10 +985,10 @@
                         <div class="col-lg-5">
                             <div class="kfc-image-items bg-cover" style="background-image: url('assets/img/banner/kfc-bg.png');">
                                 <div class="kfc-image">
-                                    <img src="assets/img/food/kfc.png" alt="food-img">
+                                    <img src="assets/img/4d6c59_90073563ccb24a59a9264955072ef2cc~mv5.webp" alt="food-img">
                                 </div>
                                 <div class="offer-shape">
-                                    <img src="assets/img/offer/50percent-off-2.png" alt="shape-img">
+                                    <!-- <img src="assets/img/offer/50percent-off-2.png" alt="shape-img"> -->
                                 </div>
                             </div>
                         </div>
@@ -1023,7 +1023,7 @@
                                         <p>Sec</p>
                                     </li>
                                 </ul>
-                                <a href="shop-single.html" class="theme-btn mt-5 wow fadeInUp" data-wow-delay=".8s">
+                                <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn mt-5 wow fadeInUp" data-wow-delay=".8s">
                                 <span class="button-content-wrapper d-flex align-items-center">
                                 <span class="button-icon"><i class="flaticon-delivery"></i></span>
                                 <span class="button-text">order now</span>
@@ -1149,7 +1149,7 @@
                             <span class="theme-color-3">delivery</span> challage
                         </h2>
                     </div>
-                    <a href="shop-single.html" class="theme-btn bg-white mt-4 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
+                    <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn bg-white mt-4 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
                     <span class="button-content-wrapper d-flex align-items-center">
                     <span class="button-icon"><i class="flaticon-delivery"></i></span>
                     <span class="button-text">order now</span>
@@ -1188,7 +1188,8 @@
                                     </div>
                                     <div class="content">
                                         <h5>24/7 Support center</h5>
-                                        <h3><a href="tel:+1718-904-4450">+1718-904-4450</a></h3>
+                                        <h3><a href="tel:+1718-904-4450">
+0131 531 2796</a></h3>
                                     </div>
                                 </div>
                             </div>

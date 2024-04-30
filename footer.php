@@ -12,8 +12,8 @@
                         <div class="col-xl-3 col-sm-6 col-md-6 col-lg-3 wow fadeInUp" data-wow-delay=".2s">
                             <div class="single-footer-widget">
                                 <div class="widget-head">
-                                    <a href="index.html">
-                                    <img src="assets/img/logo/logo.svg" alt="logo-img">
+                                    <a href="https://www.uwagboeskitchen.com/">
+                                    <img src="assets/img/whatsapp_logo-removebg-preview.png" alt="logo-img">
                                     </a>
                                 </div>
                                 <div class="footer-content">
@@ -22,12 +22,14 @@
                                         amazing things.
                                     </p>
                                     <span>Interested in working with us?</span> <br>
-                                    <a href="mailto:info@example.com" class="link">info@example.com</a>
+                                    <a href="mailto:uwagboekitchen@gmail.com" class="link">
+uwagboekitchen@gmail.com
+</a>
                                     <div class="social-icon d-flex align-items-center">
-                                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-vimeo-v"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                        <a href="https://www.facebook.com/uwagboeskitchen"><i class="fab fa-facebook-f"></i></a>
+                                        <a href="https://twitter.com/uwagboeskitchen"><i class="fab fa-twitter"></i></a>
+                                        <a href="https://www.instagram.com/uwagboeskitchen/"><i class="fab fa-instagram"></i></a>
+                                        <!-- <a href="#"><i class="fab fa-pinterest-p"></i></a> -->
                                     </div>
                                 </div>
                             </div>
@@ -38,16 +40,25 @@
                                     <h4>Quick Links</h4>
                                 </div>
                                 <ul class="list-items">
-                                    <li>
-                                        <a href="about.html"> 
+                                <li>
+                                        <a href="about.php">
                                         <span class="text-effect">
-                                        <span class="effect-1">Services</span>
-                                        <span class="effect-1">Services</span>
+                                        <span class="effect-1">Trainee</span>
+                                        <span class="effect-1">Trainee</span>
                                         </span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="about.html">
+                                        <a href="contact.php">
+                                        <span class="text-effect">
+                                        <span class="effect-1">Contact us</span>
+                                        <span class="effect-1">Contact us</span>
+                                        </span>
+                                        </a>
+                                    </li>
+                                   
+                                    <li>
+                                        <a href="about.php">
                                         <span class="text-effect">
                                         <span class="effect-1">About company</span>
                                         <span class="effect-1">About company</span>
@@ -55,81 +66,20 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="news-details.html">
+                                        <a href="login.php">
                                         <span class="text-effect">
-                                        <span class="effect-1">latest news</span>
-                                        <span class="effect-1">latest news</span>
+                                        <span class="effect-1">Login</span>
+                                        <span class="effect-1">Login</span>
                                         </span>
                                         </a>
                                     </li>
-                                    <li>
-                                        <a href="team.html">
-                                        <span class="text-effect">
-                                        <span class="effect-1">team member</span>
-                                        <span class="effect-1">team member</span>
-                                        </span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="testimonial.html">
-                                        <span class="text-effect">
-                                        <span class="effect-1">testimonials</span>
-                                        <span class="effect-1">testimonials</span>
-                                        </span>
-                                        </a>
-                                    </li>
+                                    
+                                    
+                                    
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-xl-2 ps-lg-4 col-sm-6 col-md-3 col-lg-3 wow fadeInUp" data-wow-delay=".6s">
-                            <div class="single-footer-widget">
-                                <div class="widget-head">
-                                    <h4>My account</h4>
-                                </div>
-                                <ul class="list-items">
-                                    <li>
-                                        <a href="shop-single.html">
-                                        <span class="text-effect">
-                                        <span class="effect-1">My Profile</span>
-                                        <span class="effect-1">My Profile</span>
-                                        </span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="shop-single.html">
-                                        <span class="text-effect">
-                                        <span class="effect-1">My Order History</span>
-                                        <span class="effect-1">My Order History</span>
-                                        </span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="shop-single.html">
-                                        <span class="text-effect">
-                                        <span class="effect-1">My Wish List</span>
-                                        <span class="effect-1">My Wish List</span>
-                                        </span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="shop-single.html">
-                                        <span class="text-effect">
-                                        <span class="effect-1">Order Tracking</span>
-                                        <span class="effect-1">Order Tracking</span>
-                                        </span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="shop-cart.html">
-                                        <span class="text-effect">
-                                        <span class="effect-1">Shopping Cart</span>
-                                        <span class="effect-1">Shopping Cart</span>
-                                        </span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                        
                         <div class="col-xl-2 col-sm-6 col-md-6 col-lg-3 wow fadeInUp" data-wow-delay=".8s">
                             <div class="single-footer-widget">
                                 <div class="widget-head">
@@ -137,8 +87,9 @@
                                 </div>
                                 <div class="footer-address-text">
                                     <h6>
-                                        570 8th Ave, New York,NY <span>10018</span>
-                                        United States
+                                    250-252 Leith Walk, Edinburgh.
+
+EH6 5EL Scotland, United Kingdom
                                     </h6>
                                     <h5>Hours:</h5>
                                     <h6>
@@ -156,12 +107,15 @@
                                 <div class="footer-apps-items">
                                     <h5>From App Store or Google Play</h5>
                                     <div class="apps-image d-flex align-items-center">
-                                        <a href="#"><img src="assets/img/app-store.png" alt="store-img"></a>
-                                        <a href="#"><img src="assets/img/google-play.png" alt="store-img"></a>
+                                        <a href="https://apps.wix.com/place-invites/join-lp/097c7ce6-4aa1-4f4a-b69d-e84bd8048a28?ref=pre_banner_top"><img src="assets/img/app-store.png" alt="store-img"></a>
+                                        <a href="https://apps.wix.com/place-invites/join-lp/097c7ce6-4aa1-4f4a-b69d-e84bd8048a28?ref=pre_banner_top"><img src="assets/img/google-play.png" alt="store-img"></a>
                                     </div>
                                     <div class="support-text">
                                         <h5>24/7 Support center</h5>
-                                        <h3><a href="tel:+1718-904-4450">+1718-904-4450</a></h3>
+                                        <h3><a href="tel:0131 531 2796">
+
+
+0131 531 2796</a></h3>
                                     </div>
                                 </div>
                             </div>
