@@ -93,8 +93,10 @@ EH6 5EL Scotland, United Kingdom
                                     </h6>
                                     <h5>Hours:</h5>
                                     <h6>
-                                        9.30am – 6.30pm <br>
-                                        Monday to Friday
+                                    We open the restaurant from 12pm - 11:30pm Monday- Thursday 
+Friday & Saturday - 12pm - 1:30 am 
+Sunday 
+12pm- 11:30pm
                                     </h6>
                                 </div>
                             </div>
@@ -127,10 +129,10 @@ EH6 5EL Scotland, United Kingdom
                 <div class="container">
                     <div class="footer-bottom-wrapper d-flex align-items-center justify-content-between">
                         <p class="wow fadeInLeft" data-wow-delay=".3s">
-                            © Copyright <span class="theme-color-3">2024</span> <a href="index.html">Foodking </a>. All Rights Reserved.
+                            © Copyright <span class="theme-color-3">2024</span> <a href="index.php">Uwagboe</a>. All Rights Reserved.
                         </p>
                         <div class="card-image wow fadeInRight" data-wow-delay=".5s">
-                            <img src="assets/img/card.png" alt="card-img">
+                            <!-- <img src="assets/img/card.png" alt="card-img"> -->
                         </div>
                     </div>
                 </div>

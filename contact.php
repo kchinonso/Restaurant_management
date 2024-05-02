@@ -10,7 +10,7 @@
                     <h1>Contact us</h1>
                     <ul class="breadcrumb-items">
                         <li>
-                            <a href="index.html">
+                            <a href="index.php">
                             Home Page
                             </a>
                         </li>
@@ -37,9 +37,9 @@
                             <div class="content">
                                 <h3>address line</h3>
                                 <p>
-                                    Bowery St, New York, 37 USA <br>
-                                    NY 10013,USA 
-                                </p>
+                                250-252 Leith Walk, Edinburgh.
+
+EH6 5EL Scotland, United Kingdom
                             </div>
                         </div>
                     </div>
@@ -51,9 +51,9 @@
                             <div class="content">
                                 <h3>Phone Number</h3>
                                 <p>
-                                    +1255 - 568 - 6523 4374-221 <br>
-                                    +1255 - 568 - 6523
-                                </p>
+                                   
+                                    0131 531 2796
+                                </p><br>
                             </div>
                         </div>
                     </div>
@@ -65,9 +65,9 @@
                             <div class="content">
                                 <h3>Mail Adress</h3>
                                 <p>
-                                    email@example.com <br>
-                                    info@yourdomain.com
-                                </p>
+                                
+                                    uwagboekitchen@gmail.com
+                                </p><br>
                             </div>
                         </div>
                     </div>
@@ -80,7 +80,7 @@
             <div class="container">
                 <div class="contact-area">
                     <div class="row justify-content-between">
-                        <div class="col-xl-6 col-lg-6">
+                        <!-- <div class="col-xl-6 col-lg-6">
                             <div class="map-content-area">
                                 <h3 class="wow fadeInUp" data-wow-delay=".3s"> Get in touch</h3>
                                 <p class="wow fadeInUp" data-wow-delay=".5s">
@@ -91,11 +91,11 @@
                                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6678.7619084840835!2d144.9618311901502!3d-37.81450084255415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642b4758afc1d%3A0x3119cc820fdfc62e!2sEnvato!5e0!3m2!1sen!2sbd!4v1641984054261!5m2!1sen!2sbd" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-5 col-lg-5 mt-5 mt-lg-0">
+                        </div> -->
+                        <div class="col-md-12">
                             <div class="contact-form-items">
                                 <div class="contact-title">
-                                    <h3 class="wow fadeInUp" data-wow-delay=".3s">Fill Up The Form</h3>
+                                    <h3 class="wow fadeInUp" data-wow-delay=".3s">Get in touch</h3>
                                     <p class="wow fadeInUp" data-wow-delay=".5s">Your email address will not be published. Required fields are marked *</p>
                                 </div>
                                 <form action="https://modinatheme.com/html/foodking-html/contact.php" id="contact-form" method="POST">
@@ -152,13 +152,13 @@
             <div class="container">
                 <div class="main-cta-banner-wrapper-2 d-flex align-items-center justify-content-between">
                     <div class="section-title mb-0">
-                        <span class="theme-color-3 wow fadeInUp">crispy, every bite taste</span>
+                        <!-- <span class="theme-color-3 wow fadeInUp">crispy, every bite taste</span> -->
                         <h2 class="text-white wow fadeInUp" data-wow-delay=".3s">
                             30 minutes fast <br>
-                            <span class="theme-color-3">delivery</span> challage
+                            <span class="theme-color-3">delivery</span> challenge
                         </h2>
                     </div>
-                    <a href="shop-single.html" class="theme-btn bg-white wow fadeInUp" data-wow-delay=".5s">
+                    <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn bg-white wow fadeInUp" data-wow-delay=".5s">
                     <span class="button-content-wrapper d-flex align-items-center">
                     <span class="button-icon"><i class="flaticon-delivery"></i></span>
                     <span class="button-text">order now</span>

@@ -22,14 +22,14 @@
                                 <img src="assets/img/hero/chilli-shape-3.png" alt="shape-img">
                             </div>
                             <div class="offer-shape"  data-animation="fadeInUp" data-delay="2.1s">
-                                <img src="assets/img/hero/offer-shape.png" alt="shape-img">
+                                <!-- <img src="assets/img/hero/offer-shape.png" alt="shape-img"> -->
                             </div>
                             <h2 class="hero-back-title"  data-animation="fadeInRight" data-delay="2.5s">fast food</h2>
                             <div class="container">
                                 <div class="row justify-content-between">
                                     <div class="col-xl-5 col-lg-7">
                                         <div class="hero-content">
-                                            <p data-animation="fadeInUp">crispy, every bite taste</p>
+                                            <!-- <p data-animation="fadeInUp">crispy, every bite taste</p> -->
                                             <h1  data-animation="fadeInUp" data-delay="0.5s">
                                                 delicious
                                                 <span>special</span>
@@ -69,14 +69,14 @@
                                 <img src="assets/img/hero/chilli-shape-3.png" alt="shape-img">
                             </div>
                             <div class="offer-shape"  data-animation="fadeInUp" data-delay="2.1s">
-                                <img src="assets/img/hero/offer-shape.png" alt="shape-img">
+                                <!-- <img src="assets/img/hero/offer-shape.png" alt="shape-img"> -->
                             </div>
                             <h2 class="hero-back-title"  data-animation="fadeInRight" data-delay="2.5s">fast food</h2>
                             <div class="container">
                                 <div class="row justify-content-between">
                                     <div class="col-xl-5 col-lg-7">
                                         <div class="hero-content">
-                                            <p data-animation="fadeInUp">crispy, every bite taste</p>
+                                            <!-- <p data-animation="fadeInUp">crispy, every bite taste</p> -->
                                             <h1  data-animation="fadeInUp" data-delay="0.5s">
                                                 Awesome
                                                 <span>rice and</span>
@@ -116,14 +116,14 @@
                                 <img src="assets/img/hero/chilli-shape-3.png" alt="shape-img">
                             </div>
                             <div class="offer-shape"  data-animation="fadeInUp" data-delay="2.1s">
-                                <img src="assets/img/hero/offer-shape.png" alt="shape-img">
+                                <!-- <img src="assets/img/hero/offer-shape.png" alt="shape-img"> -->
                             </div>
                             <h2 class="hero-back-title"  data-animation="fadeInRight" data-delay="2.5s">fast food</h2>
                             <div class="container">
                                 <div class="row justify-content-between">
                                     <div class="col-xl-5 col-lg-7">
                                         <div class="hero-content">
-                                            <p data-animation="fadeInUp">crispy, every bite taste</p>
+                                            <!-- <p data-animation="fadeInUp">crispy, every bite taste</p> -->
                                             <h1  data-animation="fadeInUp" data-delay="0.5s">
                                                 Favorite
                                                 <span>jellof</span>
@@ -163,14 +163,14 @@
                                 <img src="assets/img/hero/chilli-shape-3.png" alt="shape-img">
                             </div>
                             <div class="offer-shape"  data-animation="fadeInUp" data-delay="2.1s">
-                                <img src="assets/img/hero/offer-shape.png" alt="shape-img">
+                                <!-- <img src="assets/img/hero/offer-shape.png" alt="shape-img"> -->
                             </div>
                             <h2 class="hero-back-title"  data-animation="fadeInRight" data-delay="2.5s">fast food</h2>
                             <div class="container">
                                 <div class="row justify-content-between">
                                     <div class="col-xl-5 col-lg-7">
                                         <div class="hero-content">
-                                            <p data-animation="fadeInUp">crispy, every bite taste</p>
+                                            <!-- <p data-animation="fadeInUp">crispy, every bite taste</p> -->
                                             <h1  data-animation="fadeInUp" data-delay="0.5s">
                                                 delicious
                                                 <span>special</span>
@@ -214,7 +214,7 @@
                 <div class="row">
                     <div class="col-md-7 col-9">
                         <div class="section-title">
-                            <span class="wow fadeInUp">crispy, every bite taste</span>
+                            <!-- <span class="wow fadeInUp">crispy, every bite taste</span> -->
                             <h2 class="wow fadeInUp" data-wow-delay=".3s">Popular Food Items</h2>
                         </div>
                     </div>
@@ -233,7 +233,7 @@
                                 <div class="catagory-product-image text-center">
                                     <a href="https://www.uwagboeskitchen.com/online-ordering">
                                         <img src="assets/img/4d6c59_1ea04112545f42858557dd86a1ec77d3~mv2.webp" alt="product-img">
-                                        <div class="decor-leaf">
+                                        <!-- <div class="decor-leaf">
                                             <img src="assets/img/shape/decor-leaf.svg" alt="shape-img">
                                         </div>
                                         <div class="decor-leaf-2">
@@ -241,14 +241,14 @@
                                         </div>
                                         <div class="burger-shape">
                                             <img src="assets/img/shape/burger-shape.png" alt="shape-img">
-                                        </div>
+                                        </div> -->
                                     </a>
                                 </div>
                                 <div class="catagory-product-content text-center">
-                                    <div class="catagory-product-icon">
+                                    <!-- <div class="catagory-product-icon">
                                         <img src="assets/img/shape/food-shape.svg" alt="shape-text">
-                                    </div>
-                                    <h3>
+                                    </div> -->
+                                    <h3 class="mt-2">
                                         <a href="https://www.uwagboeskitchen.com/online-ordering">
                                         Fish
                                         </a>
@@ -263,22 +263,22 @@
                                 <div class="catagory-product-image text-center">
                                     <a href="https://www.uwagboeskitchen.com/online-ordering">
                                         <img src="assets/img/4d6c59_033b7f0af9694b30a8f5bb10b3c04294~mv8.webp" alt="product-img">
-                                        <div class="decor-leaf">
+                                        <!-- <div class="decor-leaf">
                                             <img src="assets/img/shape/decor-leaf.svg" alt="shape-img">
                                         </div>
                                         <div class="decor-leaf-2">
                                             <img src="assets/img/shape/decor-leaf-2.svg" alt="shape-img">
-                                        </div>
+                                        </div> -->
                                         <div class="burger-shape">
                                             <!-- <img src="assets/img/shape/burger-shape.png" alt="shape-img"> -->
                                         </div>
                                     </a>
                                 </div>
                                 <div class="catagory-product-content text-center">
-                                    <div class="catagory-product-icon">
+                                    <!-- <div class="catagory-product-icon">
                                         <img src="assets/img/shape/food-shape.svg" alt="shape-text">
-                                    </div>
-                                    <h3>
+                                    </div> -->
+                                    <h3 class="mt-2">
                                         <a href="https://www.uwagboeskitchen.com/online-ordering">
                                         special Box
                                         </a>
@@ -293,7 +293,7 @@
                                 <div class="catagory-product-image text-center">
                                     <a href="https://www.uwagboeskitchen.com/online-ordering">
                                         <img src="assets/img/4d6c59_42d51968e723416a98ca10a6211b9174~mv3.webp" alt="product-img">
-                                        <div class="decor-leaf">
+                                        <!-- <div class="decor-leaf">
                                             <img src="assets/img/shape/decor-leaf.svg" alt="shape-img">
                                         </div>
                                         <div class="decor-leaf-2">
@@ -301,14 +301,14 @@
                                         </div>
                                         <div class="burger-shape">
                                             <img src="assets/img/shape/burger-shape.png" alt="shape-img">
-                                        </div>
+                                        </div> -->
                                     </a>
                                 </div>
                                 <div class="catagory-product-content text-center">
-                                    <div class="catagory-product-icon">
+                                    <!-- <div class="catagory-product-icon">
                                         <img src="assets/img/shape/food-shape.svg" alt="shape-text">
-                                    </div>
-                                    <h3>
+                                    </div> -->
+                                    <h3 class="mt-2">
                                         <a href="https://www.uwagboeskitchen.com/online-ordering">
                                         fried rice
                                         </a>
@@ -504,7 +504,7 @@
         <section class="food-category-section fix section-padding section-bg">
             <div class="container">
                 <div class="section-title text-center">
-                    <span class="wow fadeInUp">crispy, every bite taste</span>
+                    <!-- <span class="wow fadeInUp">crispy, every bite taste</span> -->
                     <h2 class="wow fadeInUp" data-wow-delay=".3s">Popular Food Items</h2>
                 </div>
                 <div class="row">
@@ -582,7 +582,7 @@
                                 </div>
                                 <div class="info-price d-flex align-items-center justify-content-center">
                                     <!-- <p>-5%</p> -->
-                                    <h6>Eugusi soup</h6>
+                                    <h6>Egusi soup</h6>
                                     <!-- <span>$28.52</span> -->
                                 </div>
                                 <h4>
@@ -654,33 +654,33 @@
                         <div class="col-xl-6">
                             <div class="food-comboo-content">
                                 <div class="section-title">
-                                    <span class="wow fadeInUp">crispy, every bite taste</span>
+                                    <!-- <span class="wow fadeInUp">crispy, every bite taste</span> -->
                                     <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                                        trending Food combo
-                                        offer less <span>20%</span>
+                                        trending Food 
                                     </h2>
                                 </div>
                                 <p class="wow fadeInUp" data-wow-delay=".5s">
-                                    A team of dreamers and doers building unique interactive music and art festivals.
+                                  
                                 </p>
                                 <div class="nav nav-tabs" id="nav-tab" role="tablist">
                                     <button class="nav-link wow fadeInUp" data-wow-delay=".3s" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">
                                     <span class="food-comboo-list">
                                     <span class="offer-image">
-                                    <img src="assets/img/offer/chicken.png" alt="img">
+                                    <!-- <img src="assets/img/offer/chicken.png" alt="img"> -->
                                     </span>
                                     <span class="comboo-title">
-                                    30% off 4pcs hot crispy & 8 pcs wing
+                                    Efo Riro
+
                                     </span>
                                     </span>
                                     </button>
                                     <button class="nav-link active wow fadeInUp" data-wow-delay=".5s" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">
                                     <span class="food-comboo-list">
                                     <span class="offer-image">
-                                    <img src="assets/img/offer/pizza.png" alt="img">
+                                    <!-- <img src="assets/img/offer/pizza.png" alt="img"> -->
                                     </span>
                                     <span class="comboo-title">
-                                    20% off tasty special Box with drink
+                                    Sauteed spinach with mixed meats and Poundo
                                     </span>
                                     </span>
                                     </button>
@@ -689,9 +689,9 @@
                                     <span class="offer-image">
                                     <!-- <img src="assets/img/offer/burger.png" alt="img"> -->
                                     </span>
-                                    <span class="comboo-title">
-                                    2pcs humbergur with drinks & sauce
-                                    </span>
+                                   <a href="https://www.uwagboeskitchen.com/"> <span class="comboo-title">
+                                    £25.00
+                                    </span></a>
                                     </span>
                                     </button>
                                 </div>
@@ -754,95 +754,11 @@
             </div>
         </section>
 
-        <!-- Marque Section Start -->
-        <div class="marque-section fix section-padding pt-0 section-bg">
-            <div class="marquee-wrapper text-slider">
-                <div class="marquee-inner to-left">
-                    <ul class="marqee-list d-flex">
-                        <li class="marquee-item">
-                            <span class="text-slider text-color">populer</span><span class="text-slider"></span> <span class="text-slider text-color">dishes</span>
-                            <span class="text-slider"><img src="assets/img/icon/burger.png" alt="icon-img"></span> <span class="text-slider"></span> <span class="text-slider text-color-2">delicious</span>
-                            <span class="text-slider text-color-2">food</span> <img src="assets/img/icon/pizza.png" alt="icon-img"> <span class="text-slider"></span> <span class="text-slider text-color">populer</span>
-                            <span class="text-slider text-color">dishes</span> <span class="text-slider"></span><span class="text-slider"><img src="assets/img/icon/burger.png" alt="icon-img"></span> <span class="text-slider"></span> <span class="text-slider text-color-2">delicious</span>
-                            <span class="text-slider text-color">populer</span><span class="text-slider"></span> <span class="text-slider text-color">dishes</span>
-                            <span class="text-slider"><img src="assets/img/icon/burger.png" alt="icon-img"></span> <span class="text-slider"></span> <span class="text-slider text-color-2">delicious</span>
-                            <span class="text-slider text-color-2">food</span> <img src="assets/img/icon/pizza.png" alt="icon-img"> <span class="text-slider"></span> <span class="text-slider text-color">populer</span>
-                            <span class="text-slider text-color">dishes</span> <span class="text-slider"></span><span class="text-slider"><img src="assets/img/icon/burger.png" alt="icon-img"></span> <span class="text-slider"></span> <span class="text-slider text-color-2">delicious</span>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-        <!-- Choose Us Section Start -->
-        <section class="choose-us fix section-padding pt-0 section-bg">
-            <div class="container">
-                <div class="food-icon-wrapper bg-cover" style="background-image: url('assets/img/shape/food-shape-2.png');">
-                    <div class="row g-4">
-                        <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay=".3s">
-                            <div class="single-food-icon">
-                                <div class="icon">
-                                    <i class="flaticon-quality"></i>
-                                </div>
-                                <div class="content">
-                                    <h4>super quality food</h4>
-                                    <p>
-                                        A team of dreamers and doers building
-                                        unique interactive music and art
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay=".5s">
-                            <div class="single-food-icon">
-                                <div class="icon">
-                                    <i class="flaticon-cooking"></i>
-                                </div>
-                                <div class="content">
-                                    <h4>original recipes</h4>
-                                    <p>
-                                        A team of dreamers and doers building
-                                        unique interactive music and art
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay=".7s">
-                            <div class="single-food-icon">
-                                <div class="icon">
-                                    <i class="flaticon-fast-delivery"></i>
-                                </div>
-                                <div class="content">
-                                    <h4>quick fast delivery</h4>
-                                    <p>
-                                        A team of dreamers and doers building
-                                        unique interactive music and art
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay=".9s">
-                            <div class="single-food-icon">
-                                <div class="icon">
-                                    <i class="flaticon-quality"></i>
-                                </div>
-                                <div class="content">
-                                    <h4>100% fresh foods</h4>
-                                    <p>
-                                        A team of dreamers and doers building
-                                        unique interactive music and art
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+       
 
         <!-- About Section Start -->
         <section class="about-section fix section-padding pt-0 section-bg">
-            <div class="container">
+            <div class="container my-5">
                 <div class="about-wrapper">
                     <div class="row align-items-center">
                         <div class="col-xl-6 col-lg-6 wow fadeInUp" data-wow-delay=".3s">
@@ -862,7 +778,7 @@
                         <div class="col-xl-6 col-lg-6 mt-5 mt-lg-0">
                             <div class="about-content">
                                 <div class="section-title">
-                                    <span class="wow fadeInUp">about our food</span>
+                                    <span class="wow fadeInUp">about us</span>
                                     <h2 class="wow fadeInUp" data-wow-delay=".3s">
                                         Where Quality Meet
                                         Excellent <span>Service.</span>
@@ -878,39 +794,7 @@
 
 ​
                                 </p>
-                                <!-- <div class="icon-area">
-                                    <div class="icon-items d-flex wow fadeInUp" data-wow-delay=".3s">
-                                        <div class="icon">
-                                            <i class="flaticon-quality"></i>
-                                        </div>
-                                        <div class="content">
-                                            <h4>super quality food</h4>
-                                            <p>
-                                                A team of dreamers and doers build
-                                                unique interactive music and art
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <div class="icon-items d-flex wow fadeInUp" data-wow-delay=".5s">
-                                        <div class="icon">
-                                            <i class="flaticon-reputation"></i>
-                                        </div>
-                                        <div class="content">
-                                            <h4>well reputation</h4>
-                                            <p>
-                                                A team of dreamers and doers build
-                                                unique interactive music and art
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div> -->
-                                <!-- <div class="info-area d-flex align-items-center">
-                                    <a href="about.html" class="theme-btn wow style-line-height fadeInUp" data-wow-delay=".3s">more about us</a>
-                                    <div class="info-content wow fadeInUp" data-wow-delay=".5s">
-                                        <span>BRENDON GARREY</span>
-                                        <h6>Customer’s experience is our highest priority.</h6>
-                                    </div>
-                                </div> -->
+                               
                             </div>
                         </div>
                     </div>
@@ -949,15 +833,12 @@
                     <div class="col-xl-5 col-lg-9 mt-5 mt-xl-0 wow fadeInUp" data-wow-delay=".5s">
                         <div class="single-offer-items style-2 bg-cover" style="background-image: url('assets/img/banner/pepsi-bg.png');">
                             <div class="offer-content">
-                                <h5>crispy, every bite taste</h5>
+                                <!-- <h5>crispy, every bite taste</h5> -->
                                 <h3>
                                     FASH FOOD <br>
                                     MEAL
                                 </h3>
-                                <p>
-                                    The mouth-watering aroma of <br>
-                                    sizzling burgers
-                                </p>
+                               
                                 <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn mt-4">
                                 <span class="button-content-wrapper d-flex align-items-center">
                                 <span class="button-icon"><i class="flaticon-delivery"></i></span>
@@ -980,7 +861,7 @@
         <!-- KFC Banner Section Start -->
         <section class="kfc-banner fix bg-cover section-padding" style="background-image: url('assets/img/bg-image/bg.jpg');">
             <div class="kfc-wrapper">
-                <div class="container-fluid">
+                <div class="container-fluid mt-y">
                     <div class="row justify-content-between">
                         <div class="col-lg-5">
                             <div class="kfc-image-items bg-cover" style="background-image: url('assets/img/banner/kfc-bg.png');">
@@ -995,33 +876,23 @@
                         <div class="col-lg-6">
                             <div class="kfc-content text-center">
                                 <div class="section-title">
-                                    <span class="wow fadeInUp">crispy, every bite taste</span>
+                                    <!-- <span class="wow fadeInUp">crispy, every bite taste</span> -->
                                     <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                                        kfc chiken hot <br>
-                                        wing & french fries
+                                    Egusi Soup
+                                  
                                     </h2>
                                 </div>
                                 <p class="mt-3 mt-lg-0 wow fadeInUp" data-wow-delay=".5s">
-                                    Wheat tortilla with spicy chicken bites, cheese sauce <br>
-                                    tomatoes and soft cheese
+                                Melon seed soup with mixed meats and Poundo 
                                 </p>
                                 <ul class="countdown-items wow fadeInUp" data-wow-delay=".7s">
                                     <li>
-                                        <span id="day">30</span>
-                                        <p>Days</p>
+                                        <a href="  https://www.uwagboeskitchen.com/
+"><span id="">£20.00</span></a>
+                                        
                                     </li>
                                     <li>
-                                        <span id="Hours">22</span>
-                                        <p class="cont">hours</p>
-                                    </li>
-                                    <li>
-                                        <span id="Minutes">48</span>
-                                        <p>Min</p>
-                                    </li>
-                                    <li>
-                                        <span id="Seconds">22</span> 
-                                        <p>Sec</p>
-                                    </li>
+                                   
                                 </ul>
                                 <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn mt-5 wow fadeInUp" data-wow-delay=".8s">
                                 <span class="button-content-wrapper d-flex align-items-center">
@@ -1036,117 +907,17 @@
             </div>
         </section>
 
-        <!-- Testimonial Section Start -->
-        <section class="testimonial-section fix section-padding section-bg">
-            <div class="burger-shape">
-                <img src="assets/img/shape/burger-shape-3.png" alt="burger-shape">
-            </div>
-            <div class="fry-shape">
-                <img src="assets/img/shape/fry-shape-2.png" alt="burger-shape">
-            </div>
-            <div class="pizza-shape">
-                <img src="assets/img/shape/pizzashape.png" alt="burger-shape">
-            </div>
-            <div class="container">
-                <div class="testimonial-wrapper style-responsive">
-                    <div class="testimonial-items text-center">
-                        <div class="swiper testimonial-content-slider">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="testimonial-content">
-                                        <div class="client-info">
-                                            <h4>Piter Bowman</h4>
-                                            <h5>Business CEO & co founder</h5>
-                                        </div>
-                                        <h3>
-                                            “Thank you for dinner last night. It was amazing!! I have
-                                            say it’s the best meal I have had in quite some time.
-                                            will definitely be seeing more eating next year.”
-                                        </h3>
-                                        <div class="star">
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial-content">
-                                        <div class="client-info">
-                                            <h4>Piter Bowman</h4>
-                                            <h5>Business CEO & co founder</h5>
-                                        </div>
-                                        <h3>
-                                            “Thank you for dinner last night. It was amazing!! I have
-                                            say it’s the best meal I have had in quite some time.
-                                            will definitely be seeing more eating next year.”
-                                        </h3>
-                                        <div class="star">
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial-content">
-                                        <div class="client-info">
-                                            <h4>Piter Bowman</h4>
-                                            <h5>Business CEO & co founder</h5>
-                                        </div>
-                                        <h3>
-                                            “Thank you for dinner last night. It was amazing!! I have
-                                            say it’s the best meal I have had in quite some time.
-                                            will definitely be seeing more eating next year.”
-                                        </h3>
-                                        <div class="star">
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper testimonial-image-slider">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="client-image-item">
-                                        <div class="client-img bg-cover" style="background-image: url('assets/img/client/01.jpg')"></div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="client-image-item">
-                                        <div class="client-img bg-cover" style="background-image: url('assets/img/client/02.jpg')"></div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="client-image-item">
-                                        <div class="client-img bg-cover" style="background-image: url('assets/img/client/03.jpg')"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+       
 
         <!-- Main Cta Banner Section Start -->
         <section class="main-cta-banner section-padding pt-0">
-            <div class="container">
+            <div class="container mt-5">
                 <div class="main-cta-banner-wrapper bg-cover mt-10" style="background-image: url('assets/img/banner/main-cta-bg.jpg');">
                     <div class="section-title">
-                        <span class="theme-color-3 wow fadeInUp">crispy, every bite taste</span>
+                        <!-- <span class="theme-color-3 wow fadeInUp">crispy, every bite taste</span> -->
                         <h2 class="text-white wow fadeInUp" data-wow-delay=".3s">
                             30 minutes fast <br>
-                            <span class="theme-color-3">delivery</span> challage
+                            <span class="theme-color-3">delivery</span> challenge
                         </h2>
                     </div>
                     <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn bg-white mt-4 mt-md-0 wow fadeInUp" data-wow-delay=".5s">

@@ -11,7 +11,7 @@
         <meta name="author" content="modinatheme">
         <meta name="description" content="Foodking - Fast Food Restaurant Html">
         <!-- ======== Page title ============ -->
-        <title>Foodking - Fast Food Restaurant HTML Template</title>
+        <title>uwagboeskitchen</title>
         <!--<< Favcion >>-->
         <link rel="shortcut icon" href="assets/img/logo/favicon.svg">
         <!--<< Bootstrap min.css >>-->
@@ -28,10 +28,11 @@
         <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
         <!--<< Nice Select.css >>-->
         <link rel="stylesheet" href="assets/css/nice-select.css">
-        <!--<< Main.css >>-->
-        <link rel="stylesheet" href="assets/css/main.css">
+        
         <!--<< Style.css >>-->
         <link rel="stylesheet" href="style.css">
+        <!--<< Main.css >>-->
+        <link rel="stylesheet" href="assets/css/main.css">
     </head>
     <body>
         <!-- Proloader Start -->
@@ -156,7 +157,10 @@ EH6 5EL Scotland, United Kingdom</a>
                                         <i class="fal fa-clock"></i>
                                     </div>
                                     <div class="offcanvas__contact-text">
-                                        <a target="_blank" href="#">Mod-friday, 09am -05pm</a>
+                                        <a target="_blank" href="#">We open the restaurant from 12pm - 11:30pm Monday- Thursday 
+Friday & Saturday - 12pm - 1:30 am 
+Sunday 
+12pm- 11:30pm</a>
                                     </div>
                                 </li>
                                 <li class="d-flex align-items-center">
@@ -190,16 +194,16 @@ EH6 5EL Scotland, United Kingdom</a>
         <div class="offcanvas__overlay"></div>
 
         <!-- Header Area Start -->
-        <header class="section-bg">
+        <!-- <header class="section-bg">
             <div class="header-top">
                 <div class="container">
                     <div class="header-top-wrapper">
                         <ul>
                             <li><span>100%</span> Secure delivery without contacting the courier</li>
                             <li><i class="fas fa-truck"></i>Track Your Order</li>
-                        </ul>
-                        <div class="top-right">
-                            <div class="search-wrp">
+                        </ul> -->
+                        <!-- <div class="top-right"> -->
+                            <!-- <div class="search-wrp">
                                 <button><i class="far fa-search"></i></button>
                                 <input placeholder="Search" aria-label="Search">
                             </div>
@@ -207,12 +211,12 @@ EH6 5EL Scotland, United Kingdom</a>
                                 <a href="https://www.facebook.com/uwagboeskitchen"><i class="fab fa-facebook-f"></i></a>
                                 <a href="https://twitter.com/uwagboeskitchen"><i class="fab fa-twitter"></i></a>
                                 <a href="https://www.instagram.com/uwagboeskitchen/"><i class="fab fa-instagram"></i></a>
-                                <!-- <a href="#"><i class="fab fa-pinterest-p"></i></a> -->
-                            </div>
-                        </div>
+                                <a href="#"><i class="fab fa-pinterest-p"></i></a> -->
+                            <!-- </div>  -->
+                        <!-- </div>
                     </div>
                 </div>
-            </div>
+            </div>  -->
             <div id="header-sticky" class="header-1">
                 <div class="container">
                     <div class="mega-menu-wrapper">

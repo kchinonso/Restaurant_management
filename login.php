@@ -10,7 +10,7 @@
                     <h1>Login</h1>
                     <ul class="breadcrumb-items">
                         <li>
-                            <a href="index.html">
+                            <a href="index.php">
                             Home Page
                             </a>
                         </li>
@@ -88,7 +88,7 @@
                         <span class="theme-color-3 wow fadeInUp">crispy, every bite taste</span>
                         <h2 class="text-white wow fadeInUp" data-wow-delay=".3s">
                             30 minutes fast <br>
-                            <span class="theme-color-3">delivery</span> challage
+                            <span class="theme-color-3">delivery</span> challenge
                         </h2>
                     </div>
                     <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn bg-white wow fadeInUp" data-wow-delay=".5s">

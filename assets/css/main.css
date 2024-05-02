@@ -9872,4 +9872,11 @@ p.sticky-label {
 }
 .footer-bottom.style-2 .footer-bottom-wrapper ul li a:hover .text-effect .effect-1 {
   top: -100%;
-}/*# sourceMappingURL=main.css.map */
+}
+option{
+  color: black !important;
+}
+select{
+  color: black;
+}
+/*# sourceMappingURL=main.css.map */

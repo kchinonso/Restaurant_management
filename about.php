@@ -9,7 +9,7 @@
                     <h1>About us</h1>
                     <ul class="breadcrumb-items">
                         <li>
-                            <a href="index.html">
+                            <a href="index.php">
                             Home Page
                             </a>
                         </li>
@@ -47,7 +47,7 @@
                         <div class="col-xl-6 col-lg-6 mt-5 mt-lg-0">
                             <div class="about-content">
                                 <div class="section-title">
-                                    <span class="wow fadeInUp">about our food</span>
+                                    <span class="wow fadeInUp">about us</span>
                                     <h2 class="wow fadeInUp" data-wow-delay=".3s">
                                         Where Quality Meet
                                         Excellent <span>Service.</span>
@@ -63,39 +63,7 @@
 
 ​
                                 </p>
-                                <!-- <div class="icon-area">
-                                    <div class="icon-items d-flex wow fadeInUp" data-wow-delay=".3s">
-                                        <div class="icon">
-                                            <i class="flaticon-quality"></i>
-                                        </div>
-                                        <div class="content">
-                                            <h4>super quality food</h4>
-                                            <p>
-                                                A team of dreamers and doers build
-                                                unique interactive music and art
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <div class="icon-items d-flex wow fadeInUp" data-wow-delay=".5s">
-                                        <div class="icon">
-                                            <i class="flaticon-reputation"></i>
-                                        </div>
-                                        <div class="content">
-                                            <h4>well reputation</h4>
-                                            <p>
-                                                A team of dreamers and doers build
-                                                unique interactive music and art
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div> -->
-                                <!-- <div class="info-area d-flex align-items-center">
-                                    <a href="about.html" class="theme-btn wow style-line-height fadeInUp" data-wow-delay=".3s">more about us</a>
-                                    <div class="info-content wow fadeInUp" data-wow-delay=".5s">
-                                        <span>BRENDON GARREY</span>
-                                        <h6>Customer’s experience is our highest priority.</h6>
-                                    </div>
-                                </div> -->
+                              
                             </div>
                         </div>
                     </div>
@@ -114,13 +82,13 @@
             <div class="container">
                 <div class="main-cta-banner-wrapper-2 d-flex align-items-center justify-content-between">
                     <div class="section-title mb-0">
-                        <span class="theme-color-3 wow fadeInUp">crispy, every bite taste</span>
+                        <!-- <span class="theme-color-3 wow fadeInUp">crispy, every bite taste</span> -->
                         <h2 class="text-white wow fadeInUp" data-wow-delay=".3s">
                             30 minutes fast <br>
-                            <span class="theme-color-3">delivery</span> challage
+                            <span class="theme-color-3">delivery</span> challenge
                         </h2>
                     </div>
-                    <a href="shop-single.html" class="theme-btn bg-white wow fadeInUp" data-wow-delay=".5s">
+                    <a href="https://www.uwagboeskitchen.com/online-ordering" class="theme-btn bg-white wow fadeInUp" data-wow-delay=".5s">
                     <span class="button-content-wrapper d-flex align-items-center">
                     <span class="button-icon"><i class="flaticon-delivery"></i></span>
                     <span class="button-text">order now</span>
@@ -143,28 +111,7 @@
                             hot delicious item
                         </h2>
                     </div>
-                    <ul class="nav justify-content-center">
-                        <li class="nav-item wow fadeInUp" data-wow-delay=".3s">
-                            <a href="#chicken" data-bs-toggle="tab" class="nav-link active">
-                            chicken fry
-                            </a>
-                        </li>
-                        <li class="nav-item wow fadeInUp" data-wow-delay=".5s">
-                            <a href="#pizza" data-bs-toggle="tab" class="nav-link">
-                            pizza
-                            </a>
-                        </li>
-                        <li class="nav-item wow fadeInUp" data-wow-delay=".7s">
-                            <a href="#burger" data-bs-toggle="tab" class="nav-link">
-                            burger
-                            </a>
-                        </li>
-                        <li class="nav-item wow fadeInUp" data-wow-delay=".8s">
-                            <a href="#deserts" data-bs-toggle="tab" class="nav-link">
-                            deserts
-                            </a>
-                        </li>
-                    </ul>
+                   
                     <div class="tab-content">
                         <div id="chicken" class="tab-pane fade show active">
                             <div class="description-items">
@@ -172,13 +119,13 @@
                                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                                         <div class="about-food-items center">
                                             <div class="food-image">
-                                                <img src="assets/img/about-food/pizza.png" alt="food-img">
+                                                <img src="assets/img/hot_deli_img/hot deli_9.webp" alt="food-img">
                                             </div>
                                             <div class="food-content">
-                                                <h3><a href="shop-single.html">Chicago Deep Pizza.</a></h3>
+                                                <h3><a href="https://www.uwagboeskitchen.com/">Nigerian Beef Suya </a></h3>
                                                 <p>
-                                                    It's the perfect dining experience where 
-                                                    Experience quick and efficient
+                                                
+                                  Grilled beef with Nigerian authentic suya spice.
                                                 </p>
                                             </div>
                                         </div>
@@ -186,13 +133,13 @@
                                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
                                         <div class="about-food-items center">
                                             <div class="food-image">
-                                                <img src="assets/img/about-food/potato.png" alt="food-img">
+                                                <img src="assets/img/hot_deli_img/hot deli_8.webp" alt="food-img">
                                             </div>
                                             <div class="food-content">
-                                                <h3><a href="shop-single.html">Chicago Deep Pizza.</a></h3>
+                                                <h3><a href="https://www.uwagboeskitchen.com/">Asun (Spicy Goat Meat)</a></h3>
                                                 <p>
-                                                    It's the perfect dining experience where 
-                                                    Experience quick and efficient
+                                                
+                                                  No Rice
                                                 </p>
                                             </div>
                                         </div>
@@ -200,13 +147,13 @@
                                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                                         <div class="about-food-items center">
                                             <div class="food-image">
-                                                <img src="assets/img/about-food/chicken.png" alt="food-img">
+                                                <img src="assets/img/hot_deli_img/hot deli_6.webp" alt="food-img">
                                             </div>
                                             <div class="food-content">
-                                                <h3><a href="shop-single.html">Chicago Deep Pizza.</a></h3>
+                                                <h3><a href="https://www.uwagboeskitchen.com/"> Ewa Agoyin</a></h3>
                                                 <p>
-                                                    It's the perfect dining experience where 
-                                                    Experience quick and efficient
+                                               
+                                                   Togolese style honey sweet beans served with plantains
                                                 </p>
                                             </div>
                                         </div>
@@ -214,13 +161,13 @@
                                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".9s">
                                         <div class="about-food-items center">
                                             <div class="food-image">
-                                                <img src="assets/img/about-food/cheeseburger.png" alt="food-img">
+                                                <img src="assets/img/hot_deli_img/hot deli_5.webp" alt="food-img">
                                             </div>
                                             <div class="food-content">
-                                                <h3><a href="shop-single.html">Chicago Deep Pizza.</a></h3>
+                                                <h3><a href="https://www.uwagboeskitchen.com/"> Eba</a></h3>
                                                 <p>
-                                                    It's the perfect dining experience where 
-                                                    Experience quick and efficient
+                                               
+                                                  Cooked dried cassava granules
                                                 </p>
                                             </div>
                                         </div>
@@ -234,7 +181,7 @@
                                     <div class="col-xl-3 col-lg-6">
                                         <div class="about-food-items center">
                                             <div class="food-image">
-                                                <img src="assets/img/about-food/pizza.png" alt="food-img">
+                                                <img src="assets/img/hot_deli_img/hot deli_5.webp" alt="food-img">
                                             </div>
                                             <div class="food-content">
                                                 <h3><a href="shop-single.html">Chicago Deep Pizza.</a></h3>
@@ -419,205 +366,8 @@
             </div>
         </section>
 
-        <!-- Food Banner Section Start -->
-        <section class="food-banner-section fix section-padding section-bg pt-0">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-7 col-lg-9">
-                        <div class="burger-banner-items bg-cover" style="background-image: url(assets/img/banner/burger-bg.png);">
-                            <div class="burger-content text-center">
-                                <h3>today</h3>
-                                <h2>special</h2>
-                                <h4><a href="shop.html" class="text-white">beef <span>burger</span></a></h4>
-                            </div>
-                            <div class="burger-image">
-                                <img src="assets/img/food/big-burger.png" alt="food-img">
-                            </div>
-                            <div class="text-shape">
-                                <img src="assets/img/shape/pizza-text-2.png" alt="shape-img">
-                            </div>
-                            <div class="burger-text">
-                                <img src="assets/img/shape/burger-text.png" alt="shape-img">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-5 col-lg-9 mt-5 mt-xl-0">
-                        <div class="single-offer-items style-2 bg-cover" style="background-image: url('assets/img/banner/pepsi-bg.png');">
-                            <div class="offer-content">
-                                <h5>crispy, every bite taste</h5>
-                                <h3>
-                                    FASH FOOD <br>
-                                    MEAL
-                                </h3>
-                                <p>
-                                    The mouth-watering aroma of <br>
-                                    sizzling burgers
-                                </p>
-                                <a href="shop-single.html" class="theme-btn mt-4">order now</a>
-                            </div>
-                            <div class="offer-img">
-                                <img src="assets/img/offer/50percent-off-3.png" alt="shape-img">
-                            </div>
-                            <div class="roller-box">
-                                <img src="assets/img/food/roller-box.png" alt="food-img">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Marque Section Start -->
-        <div class="marque-section fix section-padding pt-0 section-bg">
-            <div class="marquee-wrapper text-slider mt-0">
-                <div class="marquee-inner to-left">
-                    <ul class="marqee-list d-flex">
-                        <li class="marquee-item">
-                            <span class="text-slider text-color">populer</span><span class="text-slider"></span> <span class="text-slider text-color">dishes</span>
-                            <span class="text-slider"><img src="assets/img/icon/burger.png" alt="icon-img"></span> <span class="text-slider"></span> <span class="text-slider text-color-2">delicious</span>
-                            <span class="text-slider text-color-2">food</span> <img src="assets/img/icon/pizza.png" alt="icon-img"> <span class="text-slider"></span> <span class="text-slider text-color">populer</span>
-                            <span class="text-slider text-color">dishes</span> <span class="text-slider"></span><span class="text-slider"><img src="assets/img/icon/burger.png" alt="icon-img"></span> <span class="text-slider"></span> <span class="text-slider text-color-2">delicious</span>
-                            <span class="text-slider text-color">populer</span><span class="text-slider"></span> <span class="text-slider text-color">dishes</span>
-                            <span class="text-slider"><img src="assets/img/icon/burger.png" alt="icon-img"></span> <span class="text-slider"></span> <span class="text-slider text-color-2">delicious</span>
-                            <span class="text-slider text-color-2">food</span> <img src="assets/img/icon/pizza.png" alt="icon-img"> <span class="text-slider"></span> <span class="text-slider text-color">populer</span>
-                            <span class="text-slider text-color">dishes</span> <span class="text-slider"></span><span class="text-slider"><img src="assets/img/icon/burger.png" alt="icon-img"></span> <span class="text-slider"></span> <span class="text-slider text-color-2">delicious</span>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-        <!-- Today Nest Sale Banner Start -->
-        <section class="today-best-sale fix">
-            <div class="today-best-sale-wrapper">
-                <div class="row g-0">
-                    <div class="col-xl-8 col-lg-7">
-                        <div class="swiper today-best-sale-image-slider">
-                            <div class="array-button">
-                                <button class="array-next"><i class="far fa-long-arrow-right"></i></button>
-                                <button class="array-prev"><i class="far fa-long-arrow-left"></i></button>
-                            </div>
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="today-best-sale-image bg-cover" style="background-image: url('assets/img/banner/best-sale-4.jpg');"></div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="today-best-sale-image bg-cover" style="background-image: url('assets/img/banner/best-sale-4.jpg');"></div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="today-best-sale-image bg-cover" style="background-image: url('assets/img/banner/best-sale-4.jpg');"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-5">
-                        <div class="best-sale-content style-2 bg-cover" style="background-image: url('assets/img/shape.png');">
-                            <div class="burger-shape">
-                                <img src="assets/img/shape/fry-shape-4.png" alt="shape-img">
-                            </div>
-                            <div class="fry-shape">
-                                <img src="assets/img/shape/burger-shape-4.png" alt="shape-img">
-                            </div>
-                            <h4 class="wow fadeInUp">Deal Of The Day</h4>
-                            <h2 class="wow fadeInUp" data-wow-delay=".3s">
-                                TODAY'S the
-                                hamburger' DAY
-                            </h2>
-                            <h3 class="wow fadeInUp" data-wow-delay=".5s">
-                                <span>special price</span> $55
-                            </h3>
-                            <p class="wow fadeInUp" data-wow-delay=".7s">
-                                Savor the perfect symphony of flavors It's the perfect
-                                dining experience where Experience quick and efficient
-                                with our signature hamburger, a culinary
-                            </p>
-                            <div class="button-area wow fadeInUp" data-wow-delay=".9s">
-                                <a href="shop-single.html" class="theme-btn bg-transparent">
-                                <span class="button-content-wrapper d-flex align-items-center">
-                                <span class="button-icon"><i class="flaticon-delivery"></i></span>
-                                <span class="button-text">order now</span>
-                                </span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Team Section Start -->
-        <section class="team-section section-padding section-bg fix">
-            <div class="container">
-                <div class="section-title text-center">
-                    <span class="wow fadeInUp">about our food</span>
-                    <h2 class="wow fadeInUp" data-wow-delay=".3s">MEET OUR EXPERT CHEFS</h2>
-                </div>
-                <div class="row">
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
-                        <div class="single-team-items">
-                            <div class="team-image">
-                                <img src="assets/img/team/01.jpg" alt="team-img">
-                                <div class="social-link">
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="#"><i class="fab fa-youtube"></i></a>
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <p>head chef</p>
-                                <h3>
-                                    <a href="team-details.html">Leslie Alexander</a>
-                                </h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
-                        <div class="single-team-items active">
-                            <div class="team-image">
-                                <img src="assets/img/team/02.jpg" alt="team-img">
-                                <div class="social-link">
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="#"><i class="fab fa-youtube"></i></a>
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <p>sr table manager</p>
-                                <h3>
-                                    <a href="team-details.html">Henry Lucas</a>
-                                </h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
-                        <div class="single-team-items">
-                            <div class="team-image">
-                                <img src="assets/img/team/03.jpg" alt="team-img">
-                                <div class="social-link">
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="#"><i class="fab fa-youtube"></i></a>
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <p>senoir cooker</p>
-                                <h3>
-                                    <a href="team-details.html">Mateo Levi</a>
-                                </h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="team-button text-center mt-5 wow fadeInUp" data-wow-delay=".4s">
-                    <a href="team.html" class="theme-btn">meet our team</a>
-                </div>
-            </div>
-        </section>
-
-        <!-- Food Processing Section Start -->
+       
+        <!-- Food Processing Section Start  -->
         <section class="food-processing-section section-padding fix bg-cover" style="background-image: url('assets/img/shape/about-food-bg.png');">
             <div class="container">
                 <div class="section-title text-center">
@@ -629,7 +379,7 @@
                         <div class="col-xl-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                             <div class="food-processing-items style-2 center">
                                 <div class="food-processing-image">
-                                    <img src="assets/img/choose/01.png" alt="img">
+                                    <img src="assets/img/hot_deli_img/hot deli_15.webp" alt="img">
                                     <div class="number">
                                         <span>01</span>
                                     </div>
@@ -646,7 +396,7 @@
                         <div class="col-xl-4 col-md-6 wow fadeInUp" data-wow-delay=".5s">
                             <div class="food-processing-items style-2 center active">
                                 <div class="food-processing-image">
-                                    <img src="assets/img/choose/02.png" alt="img">
+                                    <img src="assets/img/hot_deli_img/hot deli_14.webp" alt="img">
                                     <div class="number">
                                         <span>02</span>
                                     </div>
@@ -654,8 +404,10 @@
                                 <div class="food-processing-content">
                                     <h3>quickly delivery</h3>
                                     <p>
-                                        It's the perfect dining experience where 
-                                        Experience quick and efficient
+                                    30 minutes fast
+                                   delivery challange
+
+
                                     </p>
                                 </div>
                             </div>
@@ -663,7 +415,7 @@
                         <div class="col-xl-4 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                             <div class="food-processing-items style-2 center">
                                 <div class="food-processing-image">
-                                    <img src="assets/img/choose/03.png" alt="img">
+                                    <img src="assets/img/hot_deli_img/hot deli_13.webp" alt="img">
                                     <div class="number">
                                         <span>03</span>
                                     </div>
@@ -671,118 +423,16 @@
                                 <div class="food-processing-content">
                                     <h3>choose food</h3>
                                     <p>
-                                        It's the perfect dining experience where 
-                                        Experience quick and efficient
-                                    </p>
+                                    Discover our favourite  meals and more.
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </section> 
 
-        <!-- Testimonial Section Start -->
-        <section class="testimonial-section fix section-padding section-bg">
-            <div class="burger-shape">
-                <img src="assets/img/shape/burger-shape-3.png" alt="burger-shape">
-            </div>
-            <div class="fry-shape">
-                <img src="assets/img/shape/fry-shape-2.png" alt="burger-shape">
-            </div>
-            <div class="pizza-shape">
-                <img src="assets/img/shape/pizzashape.png" alt="burger-shape">
-            </div>
-            <div class="container">
-                <div class="testimonial-wrapper style-2">
-                    <div class="testimonial-items text-center">
-                        <div class="swiper testimonial-content-slider">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="testimonial-content">
-                                        <div class="client-info">
-                                            <h4>Piter Bowman</h4>
-                                            <h5>Business CEO & co founder</h5>
-                                        </div>
-                                        <h3>
-                                            “Thank you for dinner last night. It was amazing!! I have
-                                            say it’s the best meal I have had in quite some time.
-                                            will definitely be seeing more eating next year.”
-                                        </h3>
-                                        <div class="star">
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial-content">
-                                        <div class="client-info">
-                                            <h4>Piter Bowman</h4>
-                                            <h5>Business CEO & co founder</h5>
-                                        </div>
-                                        <h3>
-                                            “Thank you for dinner last night. It was amazing!! I have
-                                            say it’s the best meal I have had in quite some time.
-                                            will definitely be seeing more eating next year.”
-                                        </h3>
-                                        <div class="star">
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial-content">
-                                        <div class="client-info">
-                                            <h4>Piter Bowman</h4>
-                                            <h5>Business CEO & co founder</h5>
-                                        </div>
-                                        <h3>
-                                            “Thank you for dinner last night. It was amazing!! I have
-                                            say it’s the best meal I have had in quite some time.
-                                            will definitely be seeing more eating next year.”
-                                        </h3>
-                                        <div class="star">
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                            <span class="fas fa-star"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper testimonial-image-slider">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="client-image-item">
-                                        <div class="client-img bg-cover" style="background-image: url('assets/img/client/01.jpg')"></div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="client-image-item">
-                                        <div class="client-img bg-cover" style="background-image: url('assets/img/client/02.jpg')"></div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="client-image-item">
-                                        <div class="client-img bg-cover" style="background-image: url('assets/img/client/03.jpg')"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        
 
         <!-- Booking Section Start -->
         <section class="booking-section mt-0 fix section-padding bg-cover" style="background-image: url('assets/img/banner/main-bg.jpg');">
@@ -792,7 +442,7 @@
                         <div class="col-lg-6">
                             <div class="booking-content">
                                 <div class="section-title">
-                                    <span class="wow fadeInUp">crispy, every bite taste</span>
+                                    <!-- <span class="wow fadeInUp">crispy, every bite taste</span> -->
                                     <h2 class="text-white wow fadeInUp" data-wow-delay=".3s">
                                         need booking? <br>
                                         reserve your table?
@@ -804,7 +454,7 @@
                                     </div>
                                     <div class="content">
                                         <h5>24/7 Support center</h5>
-                                        <h3><a href="tel:+1718-904-4450">+1718-904-4450</a></h3>
+                                        <h3><a href="tel:+1718-904-4450">0131 531 2796</a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -854,14 +504,14 @@
         </section>
 
         <!-- Instagram Banner Section Start -->
-        <div class="instagram-banner fix">
+        <div class="instagram-banner fix mt-5">
             <div class="swiper instagram-banner-slider">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="instagram-banner-items">
                             <div class="banner-image">
-                                <img src="assets/img/instagram-banner/01.jpg" alt="food-img">
-                                <a href="assets/img/instagram-banner/01.jpg" class="icon img-popup">
+                                <img src="assets/img/hot_deli_img/hot deli_1.webp" alt="food-img">
+                                <a href="assets/img/hot_deli_img/hot deli_1.webp" class="icon img-popup">
                                 <i class="far fa-search"></i>
                                 </a>
                             </div>
@@ -870,8 +520,8 @@
                     <div class="swiper-slide">
                         <div class="instagram-banner-items">
                             <div class="banner-image">
-                                <img src="assets/img/instagram-banner/02.jpg" alt="food-img">
-                                <a href="assets/img/instagram-banner/02.jpg" class="icon img-popup">
+                                <img src="assets/img/hot_deli_img/hot deli_10.webp" alt="food-img">
+                                <a href="assets/img/hot_deli_img/hot deli_10.webp" class="icon img-popup">
                                 <i class="far fa-search"></i>
                                 </a>
                             </div>
@@ -880,8 +530,8 @@
                     <div class="swiper-slide">
                         <div class="instagram-banner-items">
                             <div class="banner-image">
-                                <img src="assets/img/instagram-banner/03.jpg" alt="food-img">
-                                <a href="assets/img/instagram-banner/03.jpg" class="icon img-popup">
+                                <img src="assets/img/hot_deli_img/hot deli_12.webp" alt="food-img">
+                                <a href="assets/img/hot_deli_img/hot deli_12.webp" class="icon img-popup">
                                 <i class="far fa-search"></i>
                                 </a>
                             </div>
@@ -890,8 +540,8 @@
                     <div class="swiper-slide">
                         <div class="instagram-banner-items">
                             <div class="banner-image">
-                                <img src="assets/img/instagram-banner/04.jpg" alt="food-img">
-                                <a href="assets/img/instagram-banner/04.jpg" class="icon img-popup">
+                                <img src="assets/img/hot_deli_img/hot deli_2.webp" alt="food-img">
+                                <a href="assets/img/hot_deli_img/hot deli_2.webp" class="icon img-popup">
                                 <i class="far fa-search"></i>
                                 </a>
                             </div>
@@ -900,8 +550,8 @@
                     <div class="swiper-slide">
                         <div class="instagram-banner-items">
                             <div class="banner-image">
-                                <img src="assets/img/instagram-banner/05.jpg" alt="food-img">
-                                <a href="assets/img/instagram-banner/05.jpg" class="icon img-popup">
+                                <img src="assets/img/hot_deli_img/hot deli_4.webp" alt="food-img">
+                                <a href="assets/img/hot_deli_img/hot deli_4.webp" class="icon img-popup">
                                 <i class="far fa-search"></i>
                                 </a>
                             </div>
